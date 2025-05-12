@@ -1,0 +1,5490 @@
+[
+  {
+    "station_id": 1,
+    "name": "연천",
+    "line": "1",
+    "latitude": 38.10073,
+    "longitude": 127.07372
+  },
+  {
+    "station_id": 2,
+    "name": "전곡",
+    "line": "1",
+    "latitude": 38.02458,
+    "longitude": 127.0718
+  },
+  {
+    "station_id": 4,
+    "name": "청산",
+    "line": "1",
+    "latitude": 37.98172,
+    "longitude": 127.06912
+  },
+  {
+    "station_id": 6,
+    "name": "소요산",
+    "line": "1",
+    "latitude": 37.9481,
+    "longitude": 127.061034
+  },
+  {
+    "station_id": 8,
+    "name": "동두천",
+    "line": "1",
+    "latitude": 37.927878,
+    "longitude": 127.05479
+  },
+  {
+    "station_id": 10,
+    "name": "보산",
+    "line": "1",
+    "latitude": 37.913702,
+    "longitude": 127.057277
+  },
+  {
+    "station_id": 12,
+    "name": "동두천중앙",
+    "line": "1",
+    "latitude": 37.901885,
+    "longitude": 127.056482
+  },
+  {
+    "station_id": 14,
+    "name": "지행",
+    "line": "1",
+    "latitude": 37.892334,
+    "longitude": 127.055716
+  },
+  {
+    "station_id": 16,
+    "name": "덕정",
+    "line": "1",
+    "latitude": 37.843188,
+    "longitude": 127.061277
+  },
+  {
+    "station_id": 18,
+    "name": "덕계",
+    "line": "1",
+    "latitude": 37.818486,
+    "longitude": 127.056486
+  },
+  {
+    "station_id": 20,
+    "name": "양주",
+    "line": "1",
+    "latitude": 37.774381,
+    "longitude": 127.044708
+  },
+  {
+    "station_id": 22,
+    "name": "녹양",
+    "line": "1",
+    "latitude": 37.75938,
+    "longitude": 127.042292
+  },
+  {
+    "station_id": 24,
+    "name": "가능",
+    "line": "1",
+    "latitude": 37.748577,
+    "longitude": 127.044213
+  },
+  {
+    "station_id": 26,
+    "name": "의정부",
+    "line": "1",
+    "latitude": 37.738415,
+    "longitude": 127.045958
+  },
+  {
+    "station_id": 28,
+    "name": "회룡",
+    "line": "1",
+    "latitude": 37.724416,
+    "longitude": 127.04736
+  },
+  {
+    "station_id": 30,
+    "name": "망월사",
+    "line": "1",
+    "latitude": 37.709914,
+    "longitude": 127.047455
+  },
+  {
+    "station_id": 32,
+    "name": "도봉산",
+    "line": "1",
+    "latitude": 37.689534,
+    "longitude": 127.046049
+  },
+  {
+    "station_id": 34,
+    "name": "도봉",
+    "line": "1",
+    "latitude": 37.679563,
+    "longitude": 127.045595
+  },
+  {
+    "station_id": 36,
+    "name": "방학",
+    "line": "1",
+    "latitude": 37.667503,
+    "longitude": 127.044273
+  },
+  {
+    "station_id": 38,
+    "name": "창동",
+    "line": "1",
+    "latitude": 37.653007,
+    "longitude": 127.047806
+  },
+  {
+    "station_id": 40,
+    "name": "녹천",
+    "line": "1",
+    "latitude": 37.644799,
+    "longitude": 127.051269
+  },
+  {
+    "station_id": 42,
+    "name": "월계",
+    "line": "1",
+    "latitude": 37.633212,
+    "longitude": 127.058831
+  },
+  {
+    "station_id": 44,
+    "name": "광운대",
+    "line": "1",
+    "latitude": 37.623632,
+    "longitude": 127.061835
+  },
+  {
+    "station_id": 46,
+    "name": "석계",
+    "line": "1",
+    "latitude": 37.614532,
+    "longitude": 127.065934
+  },
+  {
+    "station_id": 48,
+    "name": "신이문",
+    "line": "1",
+    "latitude": 37.601854,
+    "longitude": 127.067325
+  },
+  {
+    "station_id": 50,
+    "name": "외대앞",
+    "line": "1",
+    "latitude": 37.596073,
+    "longitude": 127.063549
+  },
+  {
+    "station_id": 52,
+    "name": "회기",
+    "line": "1",
+    "latitude": 37.58946,
+    "longitude": 127.057583
+  },
+  {
+    "station_id": 54,
+    "name": "청량리",
+    "line": "1",
+    "latitude": 37.580759,
+    "longitude": 127.0483
+  },
+  {
+    "station_id": 55,
+    "name": "서울",
+    "line": "1",
+    "latitude": 37.554337,
+    "longitude": 126.971134
+  },
+  {
+    "station_id": 56,
+    "name": "시청",
+    "line": "1",
+    "latitude": 37.565715,
+    "longitude": 126.977088
+  },
+  {
+    "station_id": 58,
+    "name": "종각",
+    "line": "1",
+    "latitude": 37.570161,
+    "longitude": 126.982923
+  },
+  {
+    "station_id": 60,
+    "name": "종로3가",
+    "line": "1",
+    "latitude": 37.570406,
+    "longitude": 126.991847
+  },
+  {
+    "station_id": 62,
+    "name": "종로5가",
+    "line": "1",
+    "latitude": 37.570926,
+    "longitude": 127.001849
+  },
+  {
+    "station_id": 64,
+    "name": "동대문",
+    "line": "1",
+    "latitude": 37.571687,
+    "longitude": 127.01093
+  },
+  {
+    "station_id": 66,
+    "name": "동묘앞",
+    "line": "1",
+    "latitude": 37.573197,
+    "longitude": 127.01648
+  },
+  {
+    "station_id": 68,
+    "name": "신설동",
+    "line": "1",
+    "latitude": 37.576048,
+    "longitude": 127.024634
+  },
+  {
+    "station_id": 70,
+    "name": "제기동",
+    "line": "1",
+    "latitude": 37.578103,
+    "longitude": 127.034893
+  },
+  {
+    "station_id": 74,
+    "name": "남영",
+    "line": "1",
+    "latitude": 37.541021,
+    "longitude": 126.9713
+  },
+  {
+    "station_id": 76,
+    "name": "용산",
+    "line": "1",
+    "latitude": 37.529849,
+    "longitude": 126.964561
+  },
+  {
+    "station_id": 78,
+    "name": "노량진",
+    "line": "1",
+    "latitude": 37.514149,
+    "longitude": 126.94271
+  },
+  {
+    "station_id": 80,
+    "name": "대방",
+    "line": "1",
+    "latitude": 37.513342,
+    "longitude": 126.926382
+  },
+  {
+    "station_id": 82,
+    "name": "신길",
+    "line": "1",
+    "latitude": 37.516862,
+    "longitude": 126.917865
+  },
+  {
+    "station_id": 84,
+    "name": "영등포",
+    "line": "1",
+    "latitude": 37.515504,
+    "longitude": 126.907628
+  },
+  {
+    "station_id": 86,
+    "name": "신도림",
+    "line": "1",
+    "latitude": 37.508787,
+    "longitude": 126.891144
+  },
+  {
+    "station_id": 88,
+    "name": "구로",
+    "line": "1",
+    "latitude": 37.503039,
+    "longitude": 126.881966
+  },
+  {
+    "station_id": 90,
+    "name": "가산디지털단지",
+    "line": "1",
+    "latitude": 37.481581,
+    "longitude": 126.882581
+  },
+  {
+    "station_id": 92,
+    "name": "독산",
+    "line": "1",
+    "latitude": 37.466613,
+    "longitude": 126.889249
+  },
+  {
+    "station_id": 94,
+    "name": "금천구청",
+    "line": "1",
+    "latitude": 37.455626,
+    "longitude": 126.89398
+  },
+  {
+    "station_id": 96,
+    "name": "석수",
+    "line": "1",
+    "latitude": 37.435047,
+    "longitude": 126.902295
+  },
+  {
+    "station_id": 98,
+    "name": "관악",
+    "line": "1",
+    "latitude": 37.419232,
+    "longitude": 126.908706
+  },
+  {
+    "station_id": 100,
+    "name": "안양",
+    "line": "1",
+    "latitude": 37.401592,
+    "longitude": 126.922874
+  },
+  {
+    "station_id": 102,
+    "name": "명학",
+    "line": "1",
+    "latitude": 37.384653,
+    "longitude": 126.935433
+  },
+  {
+    "station_id": 104,
+    "name": "금정",
+    "line": "1",
+    "latitude": 37.372221,
+    "longitude": 126.943429
+  },
+  {
+    "station_id": 106,
+    "name": "군포",
+    "line": "1",
+    "latitude": 37.35356,
+    "longitude": 126.948462
+  },
+  {
+    "station_id": 108,
+    "name": "당정",
+    "line": "1",
+    "latitude": 37.344285,
+    "longitude": 126.948345
+  },
+  {
+    "station_id": 110,
+    "name": "의왕",
+    "line": "1",
+    "latitude": 37.320852,
+    "longitude": 126.948217
+  },
+  {
+    "station_id": 112,
+    "name": "성균관대",
+    "line": "1",
+    "latitude": 37.300349,
+    "longitude": 126.97075
+  },
+  {
+    "station_id": 114,
+    "name": "화서",
+    "line": "1",
+    "latitude": 37.283862,
+    "longitude": 126.989627
+  },
+  {
+    "station_id": 116,
+    "name": "수원",
+    "line": "1",
+    "latitude": 37.266348,
+    "longitude": 126.999561
+  },
+  {
+    "station_id": 118,
+    "name": "세류",
+    "line": "1",
+    "latitude": 37.245025,
+    "longitude": 127.013222
+  },
+  {
+    "station_id": 120,
+    "name": "병점",
+    "line": "1",
+    "latitude": 37.207503,
+    "longitude": 127.032731
+  },
+  {
+    "station_id": 122,
+    "name": "세마",
+    "line": "1",
+    "latitude": 37.187533,
+    "longitude": 127.04318
+  },
+  {
+    "station_id": 124,
+    "name": "오산대",
+    "line": "1",
+    "latitude": 37.168953,
+    "longitude": 127.063197
+  },
+  {
+    "station_id": 126,
+    "name": "오산",
+    "line": "1",
+    "latitude": 37.145885,
+    "longitude": 127.06672
+  },
+  {
+    "station_id": 128,
+    "name": "진위",
+    "line": "1",
+    "latitude": 37.109447,
+    "longitude": 127.062278
+  },
+  {
+    "station_id": 130,
+    "name": "송탄",
+    "line": "1",
+    "latitude": 37.075696,
+    "longitude": 127.054301
+  },
+  {
+    "station_id": 132,
+    "name": "서정리",
+    "line": "1",
+    "latitude": 37.056496,
+    "longitude": 127.052819
+  },
+  {
+    "station_id": 134,
+    "name": "평택지제",
+    "line": "1",
+    "latitude": 37.0188,
+    "longitude": 127.070444
+  },
+  {
+    "station_id": 136,
+    "name": "평택",
+    "line": "1",
+    "latitude": 36.990726,
+    "longitude": 127.085159
+  },
+  {
+    "station_id": 138,
+    "name": "성환",
+    "line": "1",
+    "latitude": 36.916076,
+    "longitude": 127.126964
+  },
+  {
+    "station_id": 140,
+    "name": "직산",
+    "line": "1",
+    "latitude": 36.870593,
+    "longitude": 127.143904
+  },
+  {
+    "station_id": 142,
+    "name": "두정",
+    "line": "1",
+    "latitude": 36.833705,
+    "longitude": 127.14896
+  },
+  {
+    "station_id": 144,
+    "name": "천안",
+    "line": "1",
+    "latitude": 36.810005,
+    "longitude": 127.146826
+  },
+  {
+    "station_id": 146,
+    "name": "구일",
+    "line": "1",
+    "latitude": 37.496756,
+    "longitude": 126.870793
+  },
+  {
+    "station_id": 148,
+    "name": "개봉",
+    "line": "1",
+    "latitude": 37.494594,
+    "longitude": 126.85968
+  },
+  {
+    "station_id": 150,
+    "name": "오류동",
+    "line": "1",
+    "latitude": 37.494526,
+    "longitude": 126.845365
+  },
+  {
+    "station_id": 152,
+    "name": "온수",
+    "line": "1",
+    "latitude": 37.492433,
+    "longitude": 126.824086
+  },
+  {
+    "station_id": 154,
+    "name": "역곡",
+    "line": "1",
+    "latitude": 37.485178,
+    "longitude": 126.811502
+  },
+  {
+    "station_id": 156,
+    "name": "소사",
+    "line": "1",
+    "latitude": 37.482753,
+    "longitude": 126.79544
+  },
+  {
+    "station_id": 158,
+    "name": "부천",
+    "line": "1",
+    "latitude": 37.48405,
+    "longitude": 126.782686
+  },
+  {
+    "station_id": 160,
+    "name": "중동",
+    "line": "1",
+    "latitude": 37.486562,
+    "longitude": 126.764843
+  },
+  {
+    "station_id": 162,
+    "name": "송내",
+    "line": "1",
+    "latitude": 37.4876,
+    "longitude": 126.753664
+  },
+  {
+    "station_id": 164,
+    "name": "부개",
+    "line": "1",
+    "latitude": 37.488418,
+    "longitude": 126.74109
+  },
+  {
+    "station_id": 166,
+    "name": "부평",
+    "line": "1",
+    "latitude": 37.489445,
+    "longitude": 126.724506
+  },
+  {
+    "station_id": 168,
+    "name": "백운",
+    "line": "1",
+    "latitude": 37.483664,
+    "longitude": 126.707704
+  },
+  {
+    "station_id": 170,
+    "name": "동암",
+    "line": "1",
+    "latitude": 37.471408,
+    "longitude": 126.702896
+  },
+  {
+    "station_id": 172,
+    "name": "간석",
+    "line": "1",
+    "latitude": 37.464737,
+    "longitude": 126.694181
+  },
+  {
+    "station_id": 174,
+    "name": "주안",
+    "line": "1",
+    "latitude": 37.465047,
+    "longitude": 126.679742
+  },
+  {
+    "station_id": 176,
+    "name": "도화",
+    "line": "1",
+    "latitude": 37.46607,
+    "longitude": 126.668672
+  },
+  {
+    "station_id": 178,
+    "name": "제물포",
+    "line": "1",
+    "latitude": 37.466769,
+    "longitude": 126.656666
+  },
+  {
+    "station_id": 180,
+    "name": "도원",
+    "line": "1",
+    "latitude": 37.468446,
+    "longitude": 126.642706
+  },
+  {
+    "station_id": 182,
+    "name": "동인천",
+    "line": "1",
+    "latitude": 37.475276,
+    "longitude": 126.632802
+  },
+  {
+    "station_id": 184,
+    "name": "인천",
+    "line": "1",
+    "latitude": 37.476079,
+    "longitude": 126.616801
+  },
+  {
+    "station_id": 186,
+    "name": "봉명",
+    "line": "1",
+    "latitude": 36.801215,
+    "longitude": 127.135763
+  },
+  {
+    "station_id": 188,
+    "name": "쌍용",
+    "line": "1",
+    "latitude": 36.793759,
+    "longitude": 127.1214
+  },
+  {
+    "station_id": 190,
+    "name": "아산",
+    "line": "1",
+    "latitude": 36.792053,
+    "longitude": 127.104361
+  },
+  {
+    "station_id": 192,
+    "name": "탕정",
+    "line": "1",
+    "latitude": 36.78866,
+    "longitude": 127.08485
+  },
+  {
+    "station_id": 194,
+    "name": "배방",
+    "line": "1",
+    "latitude": 36.777629,
+    "longitude": 127.052991
+  },
+  {
+    "station_id": 196,
+    "name": "온양온천",
+    "line": "1",
+    "latitude": 36.780483,
+    "longitude": 127.003249
+  },
+  {
+    "station_id": 198,
+    "name": "신창",
+    "line": "1",
+    "latitude": 36.769502,
+    "longitude": 126.951108
+  },
+  {
+    "station_id": 200,
+    "name": "광명",
+    "line": "1",
+    "latitude": 37.416182,
+    "longitude": 126.884466
+  },
+  {
+    "station_id": 202,
+    "name": "서동탄",
+    "line": "1",
+    "latitude": 37.195504,
+    "longitude": 127.051672
+  },
+  {
+    "station_id": 203,
+    "name": "시청",
+    "line": "2",
+    "latitude": 37.563588,
+    "longitude": 126.975411
+  },
+  {
+    "station_id": 204,
+    "name": "충정로",
+    "line": "2",
+    "latitude": 37.559704,
+    "longitude": 126.964378
+  },
+  {
+    "station_id": 206,
+    "name": "아현",
+    "line": "2",
+    "latitude": 37.557345,
+    "longitude": 126.956141
+  },
+  {
+    "station_id": 208,
+    "name": "이대",
+    "line": "2",
+    "latitude": 37.556733,
+    "longitude": 126.946013
+  },
+  {
+    "station_id": 210,
+    "name": "신촌",
+    "line": "2",
+    "latitude": 37.555131,
+    "longitude": 126.936926
+  },
+  {
+    "station_id": 212,
+    "name": "홍대입구",
+    "line": "2",
+    "latitude": 37.55679,
+    "longitude": 126.923708
+  },
+  {
+    "station_id": 214,
+    "name": "합정",
+    "line": "2",
+    "latitude": 37.549457,
+    "longitude": 126.913808
+  },
+  {
+    "station_id": 216,
+    "name": "당산",
+    "line": "2",
+    "latitude": 37.534946,
+    "longitude": 126.902767
+  },
+  {
+    "station_id": 218,
+    "name": "영등포구청",
+    "line": "2",
+    "latitude": 37.525706,
+    "longitude": 126.89661
+  },
+  {
+    "station_id": 220,
+    "name": "문래",
+    "line": "2",
+    "latitude": 37.517933,
+    "longitude": 126.89476
+  },
+  {
+    "station_id": 222,
+    "name": "신도림",
+    "line": "2",
+    "latitude": 37.508961,
+    "longitude": 126.891084
+  },
+  {
+    "station_id": 224,
+    "name": "대림",
+    "line": "2",
+    "latitude": 37.493243,
+    "longitude": 126.894932
+  },
+  {
+    "station_id": 226,
+    "name": "구로디지털단지",
+    "line": "2",
+    "latitude": 37.485266,
+    "longitude": 126.901401
+  },
+  {
+    "station_id": 228,
+    "name": "신대방",
+    "line": "2",
+    "latitude": 37.487462,
+    "longitude": 126.913149
+  },
+  {
+    "station_id": 230,
+    "name": "신림",
+    "line": "2",
+    "latitude": 37.484201,
+    "longitude": 126.929715
+  },
+  {
+    "station_id": 232,
+    "name": "봉천",
+    "line": "2",
+    "latitude": 37.482362,
+    "longitude": 126.941892
+  },
+  {
+    "station_id": 234,
+    "name": "서울대입구",
+    "line": "2",
+    "latitude": 37.481247,
+    "longitude": 126.952739
+  },
+  {
+    "station_id": 236,
+    "name": "낙성대",
+    "line": "2",
+    "latitude": 37.47693,
+    "longitude": 126.963693
+  },
+  {
+    "station_id": 238,
+    "name": "사당",
+    "line": "2",
+    "latitude": 37.476538,
+    "longitude": 126.981544
+  },
+  {
+    "station_id": 240,
+    "name": "방배",
+    "line": "2",
+    "latitude": 37.481426,
+    "longitude": 126.997596
+  },
+  {
+    "station_id": 242,
+    "name": "서초",
+    "line": "2",
+    "latitude": 37.491897,
+    "longitude": 127.007917
+  },
+  {
+    "station_id": 244,
+    "name": "교대",
+    "line": "2",
+    "latitude": 37.493961,
+    "longitude": 127.014667
+  },
+  {
+    "station_id": 246,
+    "name": "강남",
+    "line": "2",
+    "latitude": 37.49799,
+    "longitude": 127.027912
+  },
+  {
+    "station_id": 248,
+    "name": "역삼",
+    "line": "2",
+    "latitude": 37.500622,
+    "longitude": 127.036456
+  },
+  {
+    "station_id": 250,
+    "name": "선릉",
+    "line": "2",
+    "latitude": 37.504286,
+    "longitude": 127.048203
+  },
+  {
+    "station_id": 252,
+    "name": "삼성",
+    "line": "2",
+    "latitude": 37.508844,
+    "longitude": 127.06316
+  },
+  {
+    "station_id": 254,
+    "name": "종합운동장",
+    "line": "2",
+    "latitude": 37.511022,
+    "longitude": 127.073704
+  },
+  {
+    "station_id": 256,
+    "name": "잠실새내",
+    "line": "2",
+    "latitude": 37.511687,
+    "longitude": 127.086162
+  },
+  {
+    "station_id": 258,
+    "name": "잠실",
+    "line": "2",
+    "latitude": 37.513262,
+    "longitude": 127.100159
+  },
+  {
+    "station_id": 260,
+    "name": "잠실나루",
+    "line": "2",
+    "latitude": 37.520733,
+    "longitude": 127.10379
+  },
+  {
+    "station_id": 262,
+    "name": "강변",
+    "line": "2",
+    "latitude": 37.535095,
+    "longitude": 127.094681
+  },
+  {
+    "station_id": 264,
+    "name": "구의",
+    "line": "2",
+    "latitude": 37.537077,
+    "longitude": 127.085916
+  },
+  {
+    "station_id": 266,
+    "name": "건대입구",
+    "line": "2",
+    "latitude": 37.540373,
+    "longitude": 127.069191
+  },
+  {
+    "station_id": 268,
+    "name": "성수",
+    "line": "2",
+    "latitude": 37.544581,
+    "longitude": 127.055961
+  },
+  {
+    "station_id": 270,
+    "name": "뚝섬",
+    "line": "2",
+    "latitude": 37.547184,
+    "longitude": 127.047367
+  },
+  {
+    "station_id": 272,
+    "name": "한양대",
+    "line": "2",
+    "latitude": 37.555273,
+    "longitude": 127.043655
+  },
+  {
+    "station_id": 274,
+    "name": "왕십리",
+    "line": "2",
+    "latitude": 37.561238,
+    "longitude": 127.036954
+  },
+  {
+    "station_id": 276,
+    "name": "상왕십리",
+    "line": "2",
+    "latitude": 37.564354,
+    "longitude": 127.029354
+  },
+  {
+    "station_id": 278,
+    "name": "신당",
+    "line": "2",
+    "latitude": 37.56564,
+    "longitude": 127.019614
+  },
+  {
+    "station_id": 280,
+    "name": "동대문역사문화공원",
+    "line": "2",
+    "latitude": 37.565613,
+    "longitude": 127.009054
+  },
+  {
+    "station_id": 282,
+    "name": "을지로4가",
+    "line": "2",
+    "latitude": 37.566595,
+    "longitude": 126.997817
+  },
+  {
+    "station_id": 284,
+    "name": "을지로3가",
+    "line": "2",
+    "latitude": 37.566306,
+    "longitude": 126.991696
+  },
+  {
+    "station_id": 286,
+    "name": "을지로입구",
+    "line": "2",
+    "latitude": 37.566014,
+    "longitude": 126.982618
+  },
+  {
+    "station_id": 290,
+    "name": "용답",
+    "line": "2",
+    "latitude": 37.561904,
+    "longitude": 127.050899
+  },
+  {
+    "station_id": 292,
+    "name": "신답",
+    "line": "2",
+    "latitude": 37.57004,
+    "longitude": 127.046481
+  },
+  {
+    "station_id": 294,
+    "name": "용두",
+    "line": "2",
+    "latitude": 37.574028,
+    "longitude": 127.038091
+  },
+  {
+    "station_id": 296,
+    "name": "신설동",
+    "line": "2",
+    "latitude": 37.574747,
+    "longitude": 127.024932
+  },
+  {
+    "station_id": 298,
+    "name": "도림천",
+    "line": "2",
+    "latitude": 37.514287,
+    "longitude": 126.882768
+  },
+  {
+    "station_id": 300,
+    "name": "양천구청",
+    "line": "2",
+    "latitude": 37.512398,
+    "longitude": 126.865819
+  },
+  {
+    "station_id": 302,
+    "name": "신정네거리",
+    "line": "2",
+    "latitude": 37.520074,
+    "longitude": 126.852912
+  },
+  {
+    "station_id": 304,
+    "name": "까치산",
+    "line": "2",
+    "latitude": 37.531768,
+    "longitude": 126.846683
+  },
+  {
+    "station_id": 305,
+    "name": "대화",
+    "line": "3",
+    "latitude": 37.676087,
+    "longitude": 126.747569
+  },
+  {
+    "station_id": 306,
+    "name": "주엽",
+    "line": "3",
+    "latitude": 37.670072,
+    "longitude": 126.761334
+  },
+  {
+    "station_id": 308,
+    "name": "정발산",
+    "line": "3",
+    "latitude": 37.659477,
+    "longitude": 126.773359
+  },
+  {
+    "station_id": 310,
+    "name": "마두",
+    "line": "3",
+    "latitude": 37.652206,
+    "longitude": 126.77762
+  },
+  {
+    "station_id": 312,
+    "name": "백석",
+    "line": "3",
+    "latitude": 37.643114,
+    "longitude": 126.78787
+  },
+  {
+    "station_id": 314,
+    "name": "대곡",
+    "line": "3",
+    "latitude": 37.631626,
+    "longitude": 126.811024
+  },
+  {
+    "station_id": 316,
+    "name": "화정",
+    "line": "3",
+    "latitude": 37.634592,
+    "longitude": 126.83265
+  },
+  {
+    "station_id": 318,
+    "name": "원당",
+    "line": "3",
+    "latitude": 37.653324,
+    "longitude": 126.843041
+  },
+  {
+    "station_id": 320,
+    "name": "원흥",
+    "line": "3",
+    "latitude": 37.650658,
+    "longitude": 126.872642
+  },
+  {
+    "station_id": 322,
+    "name": "삼송",
+    "line": "3",
+    "latitude": 37.653083,
+    "longitude": 126.895558
+  },
+  {
+    "station_id": 324,
+    "name": "지축",
+    "line": "3",
+    "latitude": 37.648017,
+    "longitude": 126.91397
+  },
+  {
+    "station_id": 326,
+    "name": "구파발",
+    "line": "3",
+    "latitude": 37.636763,
+    "longitude": 126.918821
+  },
+  {
+    "station_id": 328,
+    "name": "연신내",
+    "line": "3",
+    "latitude": 37.619229,
+    "longitude": 126.921038
+  },
+  {
+    "station_id": 330,
+    "name": "불광",
+    "line": "3",
+    "latitude": 37.610553,
+    "longitude": 126.92982
+  },
+  {
+    "station_id": 332,
+    "name": "녹번",
+    "line": "3",
+    "latitude": 37.600927,
+    "longitude": 126.935756
+  },
+  {
+    "station_id": 334,
+    "name": "홍제",
+    "line": "3",
+    "latitude": 37.589066,
+    "longitude": 126.943736
+  },
+  {
+    "station_id": 336,
+    "name": "무악재",
+    "line": "3",
+    "latitude": 37.582299,
+    "longitude": 126.950291
+  },
+  {
+    "station_id": 338,
+    "name": "독립문",
+    "line": "3",
+    "latitude": 37.574571,
+    "longitude": 126.957748
+  },
+  {
+    "station_id": 340,
+    "name": "경복궁",
+    "line": "3",
+    "latitude": 37.575762,
+    "longitude": 126.97353
+  },
+  {
+    "station_id": 342,
+    "name": "안국",
+    "line": "3",
+    "latitude": 37.576477,
+    "longitude": 126.985443
+  },
+  {
+    "station_id": 344,
+    "name": "종로3가",
+    "line": "3",
+    "latitude": 37.571605,
+    "longitude": 126.991791
+  },
+  {
+    "station_id": 346,
+    "name": "을지로3가",
+    "line": "3",
+    "latitude": 37.566672,
+    "longitude": 126.992548
+  },
+  {
+    "station_id": 348,
+    "name": "충무로",
+    "line": "3",
+    "latitude": 37.56143,
+    "longitude": 126.994072
+  },
+  {
+    "station_id": 350,
+    "name": "동대입구",
+    "line": "3",
+    "latitude": 37.559052,
+    "longitude": 127.005602
+  },
+  {
+    "station_id": 352,
+    "name": "약수",
+    "line": "3",
+    "latitude": 37.554867,
+    "longitude": 127.010541
+  },
+  {
+    "station_id": 354,
+    "name": "금호",
+    "line": "3",
+    "latitude": 37.548034,
+    "longitude": 127.015872
+  },
+  {
+    "station_id": 356,
+    "name": "옥수",
+    "line": "3",
+    "latitude": 37.541684,
+    "longitude": 127.017269
+  },
+  {
+    "station_id": 358,
+    "name": "압구정",
+    "line": "3",
+    "latitude": 37.527072,
+    "longitude": 127.028461
+  },
+  {
+    "station_id": 360,
+    "name": "신사",
+    "line": "3",
+    "latitude": 37.516334,
+    "longitude": 127.020114
+  },
+  {
+    "station_id": 362,
+    "name": "잠원",
+    "line": "3",
+    "latitude": 37.512759,
+    "longitude": 127.01122
+  },
+  {
+    "station_id": 364,
+    "name": "고속터미널",
+    "line": "3",
+    "latitude": 37.504891,
+    "longitude": 127.004916
+  },
+  {
+    "station_id": 366,
+    "name": "교대",
+    "line": "3",
+    "latitude": 37.493025,
+    "longitude": 127.013786
+  },
+  {
+    "station_id": 368,
+    "name": "남부터미널",
+    "line": "3",
+    "latitude": 37.485013,
+    "longitude": 127.016189
+  },
+  {
+    "station_id": 370,
+    "name": "양재",
+    "line": "3",
+    "latitude": 37.484477,
+    "longitude": 127.033902
+  },
+  {
+    "station_id": 372,
+    "name": "매봉",
+    "line": "3",
+    "latitude": 37.486947,
+    "longitude": 127.046769
+  },
+  {
+    "station_id": 374,
+    "name": "도곡",
+    "line": "3",
+    "latitude": 37.490922,
+    "longitude": 127.055452
+  },
+  {
+    "station_id": 376,
+    "name": "대치",
+    "line": "3",
+    "latitude": 37.494612,
+    "longitude": 127.063642
+  },
+  {
+    "station_id": 378,
+    "name": "학여울",
+    "line": "3",
+    "latitude": 37.496663,
+    "longitude": 127.070594
+  },
+  {
+    "station_id": 380,
+    "name": "대청",
+    "line": "3",
+    "latitude": 37.493514,
+    "longitude": 127.079532
+  },
+  {
+    "station_id": 382,
+    "name": "일원",
+    "line": "3",
+    "latitude": 37.483681,
+    "longitude": 127.08439
+  },
+  {
+    "station_id": 384,
+    "name": "수서",
+    "line": "3",
+    "latitude": 37.487378,
+    "longitude": 127.101907
+  },
+  {
+    "station_id": 386,
+    "name": "가락시장",
+    "line": "3",
+    "latitude": 37.492245,
+    "longitude": 127.117757
+  },
+  {
+    "station_id": 388,
+    "name": "경찰병원",
+    "line": "3",
+    "latitude": 37.495918,
+    "longitude": 127.12454
+  },
+  {
+    "station_id": 390,
+    "name": "오금",
+    "line": "3",
+    "latitude": 37.502129,
+    "longitude": 127.128319
+  },
+  {
+    "station_id": 391,
+    "name": "당고개",
+    "line": "4",
+    "latitude": 37.670272,
+    "longitude": 127.079066
+  },
+  {
+    "station_id": 392,
+    "name": "별내별가람",
+    "line": "4",
+    "latitude": 37.66778,
+    "longitude": 127.11581
+  },
+  {
+    "station_id": 394,
+    "name": "오남",
+    "line": "4",
+    "latitude": 37.705,
+    "longitude": 127.19281
+  },
+  {
+    "station_id": 396,
+    "name": "진접",
+    "line": "4",
+    "latitude": 37.7205,
+    "longitude": 127.2034
+  },
+  {
+    "station_id": 398,
+    "name": "상계",
+    "line": "4",
+    "latitude": 37.660878,
+    "longitude": 127.073572
+  },
+  {
+    "station_id": 400,
+    "name": "노원",
+    "line": "4",
+    "latitude": 37.65627,
+    "longitude": 127.063276
+  },
+  {
+    "station_id": 402,
+    "name": "창동",
+    "line": "4",
+    "latitude": 37.653088,
+    "longitude": 127.047274
+  },
+  {
+    "station_id": 404,
+    "name": "쌍문",
+    "line": "4",
+    "latitude": 37.648627,
+    "longitude": 127.034709
+  },
+  {
+    "station_id": 406,
+    "name": "수유",
+    "line": "4",
+    "latitude": 37.638052,
+    "longitude": 127.025732
+  },
+  {
+    "station_id": 408,
+    "name": "미아",
+    "line": "4",
+    "latitude": 37.62667,
+    "longitude": 127.025983
+  },
+  {
+    "station_id": 410,
+    "name": "미아사거리",
+    "line": "4",
+    "latitude": 37.613292,
+    "longitude": 127.030053
+  },
+  {
+    "station_id": 412,
+    "name": "길음",
+    "line": "4",
+    "latitude": 37.603407,
+    "longitude": 127.025053
+  },
+  {
+    "station_id": 414,
+    "name": "성신여대입구",
+    "line": "4",
+    "latitude": 37.592612,
+    "longitude": 127.016441
+  },
+  {
+    "station_id": 416,
+    "name": "한성대입구",
+    "line": "4",
+    "latitude": 37.588458,
+    "longitude": 127.006221
+  },
+  {
+    "station_id": 418,
+    "name": "혜화",
+    "line": "4",
+    "latitude": 37.582336,
+    "longitude": 127.001844
+  },
+  {
+    "station_id": 420,
+    "name": "동대문",
+    "line": "4",
+    "latitude": 37.57093,
+    "longitude": 127.009287
+  },
+  {
+    "station_id": 422,
+    "name": "동대문역사문화공원",
+    "line": "4",
+    "latitude": 37.565133,
+    "longitude": 127.007885
+  },
+  {
+    "station_id": 424,
+    "name": "충무로",
+    "line": "4",
+    "latitude": 37.561207,
+    "longitude": 126.99408
+  },
+  {
+    "station_id": 426,
+    "name": "명동",
+    "line": "4",
+    "latitude": 37.560989,
+    "longitude": 126.986325
+  },
+  {
+    "station_id": 428,
+    "name": "회현",
+    "line": "4",
+    "latitude": 37.558514,
+    "longitude": 126.978246
+  },
+  {
+    "station_id": 430,
+    "name": "서울",
+    "line": "4",
+    "latitude": 37.55281,
+    "longitude": 126.972556
+  },
+  {
+    "station_id": 432,
+    "name": "숙대입구",
+    "line": "4",
+    "latitude": 37.54456,
+    "longitude": 126.972106
+  },
+  {
+    "station_id": 434,
+    "name": "삼각지",
+    "line": "4",
+    "latitude": 37.534075,
+    "longitude": 126.9726
+  },
+  {
+    "station_id": 436,
+    "name": "신용산",
+    "line": "4",
+    "latitude": 37.52917,
+    "longitude": 126.967894
+  },
+  {
+    "station_id": 438,
+    "name": "이촌",
+    "line": "4",
+    "latitude": 37.522295,
+    "longitude": 126.974733
+  },
+  {
+    "station_id": 440,
+    "name": "동작",
+    "line": "4",
+    "latitude": 37.502852,
+    "longitude": 126.980347
+  },
+  {
+    "station_id": 442,
+    "name": "이수",
+    "line": "4",
+    "latitude": 37.486263,
+    "longitude": 126.981989
+  },
+  {
+    "station_id": 444,
+    "name": "사당",
+    "line": "4",
+    "latitude": 37.476955,
+    "longitude": 126.981651
+  },
+  {
+    "station_id": 446,
+    "name": "남태령",
+    "line": "4",
+    "latitude": 37.463873,
+    "longitude": 126.989134
+  },
+  {
+    "station_id": 448,
+    "name": "선바위",
+    "line": "4",
+    "latitude": 37.451673,
+    "longitude": 127.002303
+  },
+  {
+    "station_id": 450,
+    "name": "경마공원",
+    "line": "4",
+    "latitude": 37.443885,
+    "longitude": 127.007888
+  },
+  {
+    "station_id": 452,
+    "name": "대공원",
+    "line": "4",
+    "latitude": 37.435675,
+    "longitude": 127.006523
+  },
+  {
+    "station_id": 454,
+    "name": "과천",
+    "line": "4",
+    "latitude": 37.433021,
+    "longitude": 126.996568
+  },
+  {
+    "station_id": 456,
+    "name": "정부과천청사",
+    "line": "4",
+    "latitude": 37.426513,
+    "longitude": 126.98978
+  },
+  {
+    "station_id": 458,
+    "name": "인덕원",
+    "line": "4",
+    "latitude": 37.401553,
+    "longitude": 126.976715
+  },
+  {
+    "station_id": 460,
+    "name": "평촌",
+    "line": "4",
+    "latitude": 37.394287,
+    "longitude": 126.963883
+  },
+  {
+    "station_id": 462,
+    "name": "범계",
+    "line": "4",
+    "latitude": 37.389793,
+    "longitude": 126.950806
+  },
+  {
+    "station_id": 464,
+    "name": "금정",
+    "line": "4",
+    "latitude": 37.372209,
+    "longitude": 126.943417
+  },
+  {
+    "station_id": 466,
+    "name": "산본",
+    "line": "4",
+    "latitude": 37.358101,
+    "longitude": 126.933274
+  },
+  {
+    "station_id": 468,
+    "name": "수리산",
+    "line": "4",
+    "latitude": 37.349801,
+    "longitude": 126.925365
+  },
+  {
+    "station_id": 470,
+    "name": "대야미",
+    "line": "4",
+    "latitude": 37.328467,
+    "longitude": 126.917332
+  },
+  {
+    "station_id": 472,
+    "name": "반월",
+    "line": "4",
+    "latitude": 37.312212,
+    "longitude": 126.903524
+  },
+  {
+    "station_id": 474,
+    "name": "상록수",
+    "line": "4",
+    "latitude": 37.302795,
+    "longitude": 126.866489
+  },
+  {
+    "station_id": 476,
+    "name": "한대앞",
+    "line": "4",
+    "latitude": 37.309689,
+    "longitude": 126.85344
+  },
+  {
+    "station_id": 478,
+    "name": "중앙",
+    "line": "4",
+    "latitude": 37.315941,
+    "longitude": 126.838573
+  },
+  {
+    "station_id": 480,
+    "name": "고잔",
+    "line": "4",
+    "latitude": 37.316784,
+    "longitude": 126.823144
+  },
+  {
+    "station_id": 482,
+    "name": "초지",
+    "line": "4",
+    "latitude": 37.320646,
+    "longitude": 126.805913
+  },
+  {
+    "station_id": 484,
+    "name": "안산",
+    "line": "4",
+    "latitude": 37.327082,
+    "longitude": 126.788532
+  },
+  {
+    "station_id": 486,
+    "name": "신길온천",
+    "line": "4",
+    "latitude": 37.338212,
+    "longitude": 126.765844
+  },
+  {
+    "station_id": 488,
+    "name": "정왕",
+    "line": "4",
+    "latitude": 37.351735,
+    "longitude": 126.742989
+  },
+  {
+    "station_id": 490,
+    "name": "오이도",
+    "line": "4",
+    "latitude": 37.362357,
+    "longitude": 126.738714
+  },
+  {
+    "station_id": 491,
+    "name": "방화",
+    "line": "5",
+    "latitude": 37.577446,
+    "longitude": 126.812741
+  },
+  {
+    "station_id": 492,
+    "name": "개화산",
+    "line": "5",
+    "latitude": 37.572399,
+    "longitude": 126.806171
+  },
+  {
+    "station_id": 494,
+    "name": "김포공항",
+    "line": "5",
+    "latitude": 37.562384,
+    "longitude": 126.801292
+  },
+  {
+    "station_id": 496,
+    "name": "송정",
+    "line": "5",
+    "latitude": 37.561184,
+    "longitude": 126.811973
+  },
+  {
+    "station_id": 498,
+    "name": "마곡",
+    "line": "5",
+    "latitude": 37.560183,
+    "longitude": 126.825448
+  },
+  {
+    "station_id": 500,
+    "name": "발산",
+    "line": "5",
+    "latitude": 37.558598,
+    "longitude": 126.837668
+  },
+  {
+    "station_id": 502,
+    "name": "우장산",
+    "line": "5",
+    "latitude": 37.548768,
+    "longitude": 126.836318
+  },
+  {
+    "station_id": 504,
+    "name": "화곡",
+    "line": "5",
+    "latitude": 37.541513,
+    "longitude": 126.840461
+  },
+  {
+    "station_id": 506,
+    "name": "까치산",
+    "line": "5",
+    "latitude": 37.531768,
+    "longitude": 126.846683
+  },
+  {
+    "station_id": 508,
+    "name": "신정",
+    "line": "5",
+    "latitude": 37.524997,
+    "longitude": 126.856191
+  },
+  {
+    "station_id": 510,
+    "name": "목동",
+    "line": "5",
+    "latitude": 37.526065,
+    "longitude": 126.864931
+  },
+  {
+    "station_id": 512,
+    "name": "오목교",
+    "line": "5",
+    "latitude": 37.524496,
+    "longitude": 126.875181
+  },
+  {
+    "station_id": 514,
+    "name": "양평",
+    "line": "5",
+    "latitude": 37.525569,
+    "longitude": 126.886129
+  },
+  {
+    "station_id": 516,
+    "name": "영등포구청",
+    "line": "5",
+    "latitude": 37.5242,
+    "longitude": 126.89503
+  },
+  {
+    "station_id": 518,
+    "name": "영등포시장",
+    "line": "5",
+    "latitude": 37.522669,
+    "longitude": 126.905139
+  },
+  {
+    "station_id": 520,
+    "name": "신길",
+    "line": "5",
+    "latitude": 37.517623,
+    "longitude": 126.914839
+  },
+  {
+    "station_id": 522,
+    "name": "여의도",
+    "line": "5",
+    "latitude": 37.521747,
+    "longitude": 126.924357
+  },
+  {
+    "station_id": 524,
+    "name": "여의나루",
+    "line": "5",
+    "latitude": 37.527098,
+    "longitude": 126.932901
+  },
+  {
+    "station_id": 526,
+    "name": "마포",
+    "line": "5",
+    "latitude": 37.539574,
+    "longitude": 126.945932
+  },
+  {
+    "station_id": 528,
+    "name": "공덕",
+    "line": "5",
+    "latitude": 37.544431,
+    "longitude": 126.951372
+  },
+  {
+    "station_id": 530,
+    "name": "애오개",
+    "line": "5",
+    "latitude": 37.553736,
+    "longitude": 126.95682
+  },
+  {
+    "station_id": 532,
+    "name": "충정로",
+    "line": "5",
+    "latitude": 37.560236,
+    "longitude": 126.9629
+  },
+  {
+    "station_id": 534,
+    "name": "서대문",
+    "line": "5",
+    "latitude": 37.565773,
+    "longitude": 126.966641
+  },
+  {
+    "station_id": 536,
+    "name": "광화문",
+    "line": "5",
+    "latitude": 37.571525,
+    "longitude": 126.97717
+  },
+  {
+    "station_id": 538,
+    "name": "종로3가",
+    "line": "5",
+    "latitude": 37.57254,
+    "longitude": 126.990305
+  },
+  {
+    "station_id": 540,
+    "name": "을지로4가",
+    "line": "5",
+    "latitude": 37.567352,
+    "longitude": 126.998032
+  },
+  {
+    "station_id": 542,
+    "name": "동대문역사문화공원",
+    "line": "5",
+    "latitude": 37.564665,
+    "longitude": 127.005353
+  },
+  {
+    "station_id": 544,
+    "name": "청구",
+    "line": "5",
+    "latitude": 37.560276,
+    "longitude": 127.013639
+  },
+  {
+    "station_id": 546,
+    "name": "신금호",
+    "line": "5",
+    "latitude": 37.554548,
+    "longitude": 127.020331
+  },
+  {
+    "station_id": 548,
+    "name": "행당",
+    "line": "5",
+    "latitude": 37.557322,
+    "longitude": 127.029476
+  },
+  {
+    "station_id": 550,
+    "name": "왕십리",
+    "line": "5",
+    "latitude": 37.56184,
+    "longitude": 127.037059
+  },
+  {
+    "station_id": 552,
+    "name": "마장",
+    "line": "5",
+    "latitude": 37.5661,
+    "longitude": 127.042973
+  },
+  {
+    "station_id": 554,
+    "name": "답십리",
+    "line": "5",
+    "latitude": 37.566747,
+    "longitude": 127.052704
+  },
+  {
+    "station_id": 556,
+    "name": "장한평",
+    "line": "5",
+    "latitude": 37.56144,
+    "longitude": 127.064623
+  },
+  {
+    "station_id": 558,
+    "name": "군자",
+    "line": "5",
+    "latitude": 37.557088,
+    "longitude": 127.079577
+  },
+  {
+    "station_id": 560,
+    "name": "아차산",
+    "line": "5",
+    "latitude": 37.551691,
+    "longitude": 127.089761
+  },
+  {
+    "station_id": 562,
+    "name": "광나루",
+    "line": "5",
+    "latitude": 37.545303,
+    "longitude": 127.10357
+  },
+  {
+    "station_id": 564,
+    "name": "천호",
+    "line": "5",
+    "latitude": 37.53864,
+    "longitude": 127.123308
+  },
+  {
+    "station_id": 566,
+    "name": "강동",
+    "line": "5",
+    "latitude": 37.535804,
+    "longitude": 127.132481
+  },
+  {
+    "station_id": 568,
+    "name": "길동",
+    "line": "5",
+    "latitude": 37.537801,
+    "longitude": 127.140004
+  },
+  {
+    "station_id": 570,
+    "name": "굽은다리",
+    "line": "5",
+    "latitude": 37.545477,
+    "longitude": 127.142853
+  },
+  {
+    "station_id": 572,
+    "name": "명일",
+    "line": "5",
+    "latitude": 37.55137,
+    "longitude": 127.143999
+  },
+  {
+    "station_id": 574,
+    "name": "고덕",
+    "line": "5",
+    "latitude": 37.555004,
+    "longitude": 127.154151
+  },
+  {
+    "station_id": 576,
+    "name": "상일동",
+    "line": "5",
+    "latitude": 37.556712,
+    "longitude": 127.166417
+  },
+  {
+    "station_id": 578,
+    "name": "둔촌동",
+    "line": "5",
+    "latitude": 37.527788,
+    "longitude": 127.136248
+  },
+  {
+    "station_id": 580,
+    "name": "올림픽공원",
+    "line": "5",
+    "latitude": 37.516201,
+    "longitude": 127.130923
+  },
+  {
+    "station_id": 582,
+    "name": "방이",
+    "line": "5",
+    "latitude": 37.508857,
+    "longitude": 127.126133
+  },
+  {
+    "station_id": 584,
+    "name": "오금",
+    "line": "5",
+    "latitude": 37.502057,
+    "longitude": 127.127938
+  },
+  {
+    "station_id": 586,
+    "name": "개롱",
+    "line": "5",
+    "latitude": 37.498079,
+    "longitude": 127.13482
+  },
+  {
+    "station_id": 588,
+    "name": "거여",
+    "line": "5",
+    "latitude": 37.493105,
+    "longitude": 127.14415
+  },
+  {
+    "station_id": 590,
+    "name": "마천",
+    "line": "5",
+    "latitude": 37.49499,
+    "longitude": 127.152781
+  },
+  {
+    "station_id": 592,
+    "name": "강일",
+    "line": "5",
+    "latitude": 37.55749,
+    "longitude": 127.17593
+  },
+  {
+    "station_id": 594,
+    "name": "미사",
+    "line": "5",
+    "latitude": 37.560927,
+    "longitude": 127.193877
+  },
+  {
+    "station_id": 596,
+    "name": "하남풍산",
+    "line": "5",
+    "latitude": 37.552034,
+    "longitude": 127.203864
+  },
+  {
+    "station_id": 598,
+    "name": "하남시청",
+    "line": "5",
+    "latitude": 37.54205,
+    "longitude": 127.20612
+  },
+  {
+    "station_id": 600,
+    "name": "하남검단산",
+    "line": "5",
+    "latitude": 37.53972,
+    "longitude": 127.22345
+  },
+  {
+    "station_id": 601,
+    "name": "응암",
+    "line": "6",
+    "latitude": 37.598605,
+    "longitude": 126.915577
+  },
+  {
+    "station_id": 602,
+    "name": "새절",
+    "line": "6",
+    "latitude": 37.591148,
+    "longitude": 126.913629
+  },
+  {
+    "station_id": 604,
+    "name": "증산",
+    "line": "6",
+    "latitude": 37.583876,
+    "longitude": 126.909645
+  },
+  {
+    "station_id": 606,
+    "name": "디지털미디어시티",
+    "line": "6",
+    "latitude": 37.576108,
+    "longitude": 126.901391
+  },
+  {
+    "station_id": 608,
+    "name": "월드컵경기장",
+    "line": "6",
+    "latitude": 37.569532,
+    "longitude": 126.899298
+  },
+  {
+    "station_id": 610,
+    "name": "마포구청",
+    "line": "6",
+    "latitude": 37.563515,
+    "longitude": 126.903343
+  },
+  {
+    "station_id": 612,
+    "name": "망원",
+    "line": "6",
+    "latitude": 37.556094,
+    "longitude": 126.910052
+  },
+  {
+    "station_id": 614,
+    "name": "합정",
+    "line": "6",
+    "latitude": 37.549209,
+    "longitude": 126.913366
+  },
+  {
+    "station_id": 616,
+    "name": "상수",
+    "line": "6",
+    "latitude": 37.547716,
+    "longitude": 126.922852
+  },
+  {
+    "station_id": 618,
+    "name": "광흥창",
+    "line": "6",
+    "latitude": 37.547456,
+    "longitude": 126.931993
+  },
+  {
+    "station_id": 620,
+    "name": "대흥",
+    "line": "6",
+    "latitude": 37.547771,
+    "longitude": 126.942069
+  },
+  {
+    "station_id": 622,
+    "name": "공덕",
+    "line": "6",
+    "latitude": 37.543555,
+    "longitude": 126.951678
+  },
+  {
+    "station_id": 624,
+    "name": "효창공원앞",
+    "line": "6",
+    "latitude": 37.539233,
+    "longitude": 126.961384
+  },
+  {
+    "station_id": 626,
+    "name": "삼각지",
+    "line": "6",
+    "latitude": 37.535534,
+    "longitude": 126.974032
+  },
+  {
+    "station_id": 628,
+    "name": "녹사평",
+    "line": "6",
+    "latitude": 37.534675,
+    "longitude": 126.986695
+  },
+  {
+    "station_id": 630,
+    "name": "이태원",
+    "line": "6",
+    "latitude": 37.534488,
+    "longitude": 126.994302
+  },
+  {
+    "station_id": 632,
+    "name": "한강진",
+    "line": "6",
+    "latitude": 37.539631,
+    "longitude": 127.001725
+  },
+  {
+    "station_id": 634,
+    "name": "버티고개",
+    "line": "6",
+    "latitude": 37.548013,
+    "longitude": 127.007055
+  },
+  {
+    "station_id": 636,
+    "name": "약수",
+    "line": "6",
+    "latitude": 37.554263,
+    "longitude": 127.010358
+  },
+  {
+    "station_id": 638,
+    "name": "청구",
+    "line": "6",
+    "latitude": 37.560608,
+    "longitude": 127.013986
+  },
+  {
+    "station_id": 640,
+    "name": "신당",
+    "line": "6",
+    "latitude": 37.566154,
+    "longitude": 127.016146
+  },
+  {
+    "station_id": 642,
+    "name": "동묘앞",
+    "line": "6",
+    "latitude": 37.572279,
+    "longitude": 127.015653
+  },
+  {
+    "station_id": 644,
+    "name": "창신",
+    "line": "6",
+    "latitude": 37.579661,
+    "longitude": 127.015241
+  },
+  {
+    "station_id": 646,
+    "name": "보문",
+    "line": "6",
+    "latitude": 37.585274,
+    "longitude": 127.019351
+  },
+  {
+    "station_id": 648,
+    "name": "안암",
+    "line": "6",
+    "latitude": 37.586272,
+    "longitude": 127.029005
+  },
+  {
+    "station_id": 650,
+    "name": "고려대",
+    "line": "6",
+    "latitude": 37.590508,
+    "longitude": 127.036296
+  },
+  {
+    "station_id": 652,
+    "name": "월곡",
+    "line": "6",
+    "latitude": 37.601948,
+    "longitude": 127.041518
+  },
+  {
+    "station_id": 654,
+    "name": "상월곡",
+    "line": "6",
+    "latitude": 37.606377,
+    "longitude": 127.048491
+  },
+  {
+    "station_id": 656,
+    "name": "돌곶이",
+    "line": "6",
+    "latitude": 37.610537,
+    "longitude": 127.056431
+  },
+  {
+    "station_id": 658,
+    "name": "석계",
+    "line": "6",
+    "latitude": 37.614872,
+    "longitude": 127.065595
+  },
+  {
+    "station_id": 660,
+    "name": "태릉입구",
+    "line": "6",
+    "latitude": 37.617338,
+    "longitude": 127.074735
+  },
+  {
+    "station_id": 662,
+    "name": "화랑대",
+    "line": "6",
+    "latitude": 37.620064,
+    "longitude": 127.084689
+  },
+  {
+    "station_id": 664,
+    "name": "봉화산",
+    "line": "6",
+    "latitude": 37.617283,
+    "longitude": 127.091401
+  },
+  {
+    "station_id": 666,
+    "name": "신내",
+    "line": "6",
+    "latitude": 37.613174,
+    "longitude": 127.102231
+  },
+  {
+    "station_id": 668,
+    "name": "역촌",
+    "line": "6",
+    "latitude": 37.606021,
+    "longitude": 126.922744
+  },
+  {
+    "station_id": 670,
+    "name": "불광",
+    "line": "6",
+    "latitude": 37.610873,
+    "longitude": 126.92939
+  },
+  {
+    "station_id": 672,
+    "name": "독바위",
+    "line": "6",
+    "latitude": 37.618456,
+    "longitude": 126.933031
+  },
+  {
+    "station_id": 674,
+    "name": "연신내",
+    "line": "6",
+    "latitude": 37.618636,
+    "longitude": 126.920625
+  },
+  {
+    "station_id": 676,
+    "name": "구산",
+    "line": "6",
+    "latitude": 37.611377,
+    "longitude": 126.91727
+  },
+  {
+    "station_id": 679,
+    "name": "장암",
+    "line": "7",
+    "latitude": 37.700109,
+    "longitude": 127.053196
+  },
+  {
+    "station_id": 680,
+    "name": "도봉산",
+    "line": "7",
+    "latitude": 37.689241,
+    "longitude": 127.046509
+  },
+  {
+    "station_id": 682,
+    "name": "수락산",
+    "line": "7",
+    "latitude": 37.67785,
+    "longitude": 127.055315
+  },
+  {
+    "station_id": 684,
+    "name": "마들",
+    "line": "7",
+    "latitude": 37.66494,
+    "longitude": 127.057675
+  },
+  {
+    "station_id": 686,
+    "name": "노원",
+    "line": "7",
+    "latitude": 37.654836,
+    "longitude": 127.060462
+  },
+  {
+    "station_id": 688,
+    "name": "중계",
+    "line": "7",
+    "latitude": 37.644583,
+    "longitude": 127.064303
+  },
+  {
+    "station_id": 690,
+    "name": "하계",
+    "line": "7",
+    "latitude": 37.636352,
+    "longitude": 127.06799
+  },
+  {
+    "station_id": 692,
+    "name": "공릉",
+    "line": "7",
+    "latitude": 37.625742,
+    "longitude": 127.072896
+  },
+  {
+    "station_id": 694,
+    "name": "태릉입구",
+    "line": "7",
+    "latitude": 37.618294,
+    "longitude": 127.075397
+  },
+  {
+    "station_id": 696,
+    "name": "먹골",
+    "line": "7",
+    "latitude": 37.610637,
+    "longitude": 127.077725
+  },
+  {
+    "station_id": 698,
+    "name": "중화",
+    "line": "7",
+    "latitude": 37.602545,
+    "longitude": 127.079264
+  },
+  {
+    "station_id": 700,
+    "name": "상봉",
+    "line": "7",
+    "latitude": 37.595577,
+    "longitude": 127.085716
+  },
+  {
+    "station_id": 702,
+    "name": "면목",
+    "line": "7",
+    "latitude": 37.588579,
+    "longitude": 127.087503
+  },
+  {
+    "station_id": 704,
+    "name": "사가정",
+    "line": "7",
+    "latitude": 37.580894,
+    "longitude": 127.088478
+  },
+  {
+    "station_id": 706,
+    "name": "용마산",
+    "line": "7",
+    "latitude": 37.573647,
+    "longitude": 127.086727
+  },
+  {
+    "station_id": 708,
+    "name": "중곡",
+    "line": "7",
+    "latitude": 37.565923,
+    "longitude": 127.08432
+  },
+  {
+    "station_id": 710,
+    "name": "군자",
+    "line": "7",
+    "latitude": 37.556897,
+    "longitude": 127.079338
+  },
+  {
+    "station_id": 712,
+    "name": "어린이대공원",
+    "line": "7",
+    "latitude": 37.548014,
+    "longitude": 127.074658
+  },
+  {
+    "station_id": 714,
+    "name": "건대입구",
+    "line": "7",
+    "latitude": 37.540786,
+    "longitude": 127.071011
+  },
+  {
+    "station_id": 716,
+    "name": "자양",
+    "line": "7",
+    "latitude": 37.53154,
+    "longitude": 127.066704
+  },
+  {
+    "station_id": 718,
+    "name": "청담",
+    "line": "7",
+    "latitude": 37.519365,
+    "longitude": 127.05335
+  },
+  {
+    "station_id": 720,
+    "name": "강남구청",
+    "line": "7",
+    "latitude": 37.517179,
+    "longitude": 127.041255
+  },
+  {
+    "station_id": 722,
+    "name": "학동",
+    "line": "7",
+    "latitude": 37.514229,
+    "longitude": 127.031656
+  },
+  {
+    "station_id": 724,
+    "name": "논현",
+    "line": "7",
+    "latitude": 37.511093,
+    "longitude": 127.021415
+  },
+  {
+    "station_id": 726,
+    "name": "반포",
+    "line": "7",
+    "latitude": 37.508178,
+    "longitude": 127.011727
+  },
+  {
+    "station_id": 728,
+    "name": "고속터미널",
+    "line": "7",
+    "latitude": 37.503367,
+    "longitude": 127.005068
+  },
+  {
+    "station_id": 730,
+    "name": "내방",
+    "line": "7",
+    "latitude": 37.487618,
+    "longitude": 126.993513
+  },
+  {
+    "station_id": 732,
+    "name": "이수",
+    "line": "7",
+    "latitude": 37.485196,
+    "longitude": 126.981605
+  },
+  {
+    "station_id": 734,
+    "name": "남성",
+    "line": "7",
+    "latitude": 37.484596,
+    "longitude": 126.971251
+  },
+  {
+    "station_id": 736,
+    "name": "숭실대입구",
+    "line": "7",
+    "latitude": 37.496029,
+    "longitude": 126.953822
+  },
+  {
+    "station_id": 738,
+    "name": "상도",
+    "line": "7",
+    "latitude": 37.502834,
+    "longitude": 126.94791
+  },
+  {
+    "station_id": 740,
+    "name": "장승배기",
+    "line": "7",
+    "latitude": 37.504898,
+    "longitude": 126.93915
+  },
+  {
+    "station_id": 742,
+    "name": "신대방삼거리",
+    "line": "7",
+    "latitude": 37.499701,
+    "longitude": 126.928276
+  },
+  {
+    "station_id": 744,
+    "name": "보라매",
+    "line": "7",
+    "latitude": 37.499872,
+    "longitude": 126.920428
+  },
+  {
+    "station_id": 746,
+    "name": "신풍",
+    "line": "7",
+    "latitude": 37.50008,
+    "longitude": 126.90993
+  },
+  {
+    "station_id": 748,
+    "name": "대림",
+    "line": "7",
+    "latitude": 37.493013,
+    "longitude": 126.897075
+  },
+  {
+    "station_id": 750,
+    "name": "남구로",
+    "line": "7",
+    "latitude": 37.486056,
+    "longitude": 126.887249
+  },
+  {
+    "station_id": 752,
+    "name": "가산디지털단지",
+    "line": "7",
+    "latitude": 37.480338,
+    "longitude": 126.882656
+  },
+  {
+    "station_id": 754,
+    "name": "철산",
+    "line": "7",
+    "latitude": 37.47605,
+    "longitude": 126.867911
+  },
+  {
+    "station_id": 756,
+    "name": "광명사거리",
+    "line": "7",
+    "latitude": 37.479252,
+    "longitude": 126.854876
+  },
+  {
+    "station_id": 758,
+    "name": "천왕",
+    "line": "7",
+    "latitude": 37.486637,
+    "longitude": 126.838713
+  },
+  {
+    "station_id": 760,
+    "name": "온수",
+    "line": "7",
+    "latitude": 37.492092,
+    "longitude": 126.823023
+  },
+  {
+    "station_id": 762,
+    "name": "까치울",
+    "line": "7",
+    "latitude": 37.50613,
+    "longitude": 126.81093
+  },
+  {
+    "station_id": 764,
+    "name": "부천종합운동장",
+    "line": "7",
+    "latitude": 37.50502,
+    "longitude": 126.79661
+  },
+  {
+    "station_id": 766,
+    "name": "춘의",
+    "line": "7",
+    "latitude": 37.50365,
+    "longitude": 126.78828
+  },
+  {
+    "station_id": 768,
+    "name": "신중동",
+    "line": "7",
+    "latitude": 37.50282,
+    "longitude": 126.77566
+  },
+  {
+    "station_id": 770,
+    "name": "부천시청",
+    "line": "7",
+    "latitude": 37.50444,
+    "longitude": 126.76364
+  },
+  {
+    "station_id": 772,
+    "name": "상동",
+    "line": "7",
+    "latitude": 37.505814,
+    "longitude": 126.753163
+  },
+  {
+    "station_id": 774,
+    "name": "삼산체육관",
+    "line": "7",
+    "latitude": 37.50724,
+    "longitude": 126.74179
+  },
+  {
+    "station_id": 776,
+    "name": "굴포천",
+    "line": "7",
+    "latitude": 37.50681,
+    "longitude": 126.73234
+  },
+  {
+    "station_id": 778,
+    "name": "부평구청",
+    "line": "7",
+    "latitude": 37.50848,
+    "longitude": 126.72077
+  },
+  {
+    "station_id": 780,
+    "name": "산곡",
+    "line": "7",
+    "latitude": 37.5086,
+    "longitude": 126.7035277
+  },
+  {
+    "station_id": 782,
+    "name": "석남",
+    "line": "7",
+    "latitude": 37.5062285,
+    "longitude": 126.6762813
+  },
+  {
+    "station_id": 783,
+    "name": "암사",
+    "line": "8",
+    "latitude": 37.55021,
+    "longitude": 127.127562
+  },
+  {
+    "station_id": 784,
+    "name": "천호",
+    "line": "8",
+    "latitude": 37.538113,
+    "longitude": 127.123254
+  },
+  {
+    "station_id": 786,
+    "name": "강동구청",
+    "line": "8",
+    "latitude": 37.530341,
+    "longitude": 127.120508
+  },
+  {
+    "station_id": 788,
+    "name": "몽촌토성",
+    "line": "8",
+    "latitude": 37.517409,
+    "longitude": 127.112359
+  },
+  {
+    "station_id": 790,
+    "name": "잠실",
+    "line": "8",
+    "latitude": 37.514692,
+    "longitude": 127.104338
+  },
+  {
+    "station_id": 792,
+    "name": "석촌",
+    "line": "8",
+    "latitude": 37.505557,
+    "longitude": 127.106832
+  },
+  {
+    "station_id": 794,
+    "name": "송파",
+    "line": "8",
+    "latitude": 37.499703,
+    "longitude": 127.112183
+  },
+  {
+    "station_id": 796,
+    "name": "가락시장",
+    "line": "8",
+    "latitude": 37.492888,
+    "longitude": 127.118398
+  },
+  {
+    "station_id": 798,
+    "name": "문정",
+    "line": "8",
+    "latitude": 37.485855,
+    "longitude": 127.1225
+  },
+  {
+    "station_id": 800,
+    "name": "장지",
+    "line": "8",
+    "latitude": 37.478703,
+    "longitude": 127.126191
+  },
+  {
+    "station_id": 802,
+    "name": "복정",
+    "line": "8",
+    "latitude": 37.471052,
+    "longitude": 127.126732
+  },
+  {
+    "station_id": 804,
+    "name": "남위례",
+    "line": "8",
+    "latitude": 37.4624,
+    "longitude": 127.13977
+  },
+  {
+    "station_id": 806,
+    "name": "산성",
+    "line": "8",
+    "latitude": 37.457122,
+    "longitude": 127.149908
+  },
+  {
+    "station_id": 808,
+    "name": "남한산성입구",
+    "line": "8",
+    "latitude": 37.451535,
+    "longitude": 127.159816
+  },
+  {
+    "station_id": 810,
+    "name": "단대오거리",
+    "line": "8",
+    "latitude": 37.44521,
+    "longitude": 127.156866
+  },
+  {
+    "station_id": 812,
+    "name": "신흥",
+    "line": "8",
+    "latitude": 37.440918,
+    "longitude": 127.147564
+  },
+  {
+    "station_id": 814,
+    "name": "수진",
+    "line": "8",
+    "latitude": 37.437428,
+    "longitude": 127.140722
+  },
+  {
+    "station_id": 816,
+    "name": "모란",
+    "line": "8",
+    "latitude": 37.433824,
+    "longitude": 127.129837
+  },
+  {
+    "station_id": 817,
+    "name": "개화",
+    "line": "9",
+    "latitude": 37.578608,
+    "longitude": 126.798153
+  },
+  {
+    "station_id": 818,
+    "name": "김포공항",
+    "line": "9",
+    "latitude": 37.561916,
+    "longitude": 126.802152
+  },
+  {
+    "station_id": 820,
+    "name": "공항시장",
+    "line": "9",
+    "latitude": 37.563726,
+    "longitude": 126.810678
+  },
+  {
+    "station_id": 822,
+    "name": "신방화",
+    "line": "9",
+    "latitude": 37.567532,
+    "longitude": 126.816601
+  },
+  {
+    "station_id": 824,
+    "name": "마곡나루",
+    "line": "9",
+    "latitude": 37.566778,
+    "longitude": 126.82731
+  },
+  {
+    "station_id": 826,
+    "name": "양천향교",
+    "line": "9",
+    "latitude": 37.568381,
+    "longitude": 126.841333
+  },
+  {
+    "station_id": 828,
+    "name": "가양",
+    "line": "9",
+    "latitude": 37.561391,
+    "longitude": 126.854456
+  },
+  {
+    "station_id": 830,
+    "name": "증미",
+    "line": "9",
+    "latitude": 37.557402,
+    "longitude": 126.861939
+  },
+  {
+    "station_id": 832,
+    "name": "등촌",
+    "line": "9",
+    "latitude": 37.550632,
+    "longitude": 126.865689
+  },
+  {
+    "station_id": 834,
+    "name": "염창",
+    "line": "9",
+    "latitude": 37.546936,
+    "longitude": 126.874916
+  },
+  {
+    "station_id": 836,
+    "name": "신목동",
+    "line": "9",
+    "latitude": 37.544277,
+    "longitude": 126.88308
+  },
+  {
+    "station_id": 838,
+    "name": "선유도",
+    "line": "9",
+    "latitude": 37.53802,
+    "longitude": 126.893525
+  },
+  {
+    "station_id": 840,
+    "name": "당산",
+    "line": "9",
+    "latitude": 37.533406,
+    "longitude": 126.902809
+  },
+  {
+    "station_id": 842,
+    "name": "국회의사당",
+    "line": "9",
+    "latitude": 37.528105,
+    "longitude": 126.917874
+  },
+  {
+    "station_id": 844,
+    "name": "여의도",
+    "line": "9",
+    "latitude": 37.52176,
+    "longitude": 126.92403
+  },
+  {
+    "station_id": 846,
+    "name": "샛강",
+    "line": "9",
+    "latitude": 37.517274,
+    "longitude": 126.928422
+  },
+  {
+    "station_id": 848,
+    "name": "노량진",
+    "line": "9",
+    "latitude": 37.513534,
+    "longitude": 126.941005
+  },
+  {
+    "station_id": 850,
+    "name": "노들",
+    "line": "9",
+    "latitude": 37.512887,
+    "longitude": 126.953222
+  },
+  {
+    "station_id": 852,
+    "name": "흑석",
+    "line": "9",
+    "latitude": 37.50877,
+    "longitude": 126.963708
+  },
+  {
+    "station_id": 854,
+    "name": "동작",
+    "line": "9",
+    "latitude": 37.502878,
+    "longitude": 126.978153
+  },
+  {
+    "station_id": 856,
+    "name": "구반포",
+    "line": "9",
+    "latitude": 37.501364,
+    "longitude": 126.987332
+  },
+  {
+    "station_id": 858,
+    "name": "신반포",
+    "line": "9",
+    "latitude": 37.503415,
+    "longitude": 126.995925
+  },
+  {
+    "station_id": 860,
+    "name": "고속터미널",
+    "line": "9",
+    "latitude": 37.50598,
+    "longitude": 127.004403
+  },
+  {
+    "station_id": 862,
+    "name": "사평",
+    "line": "9",
+    "latitude": 37.504206,
+    "longitude": 127.015259
+  },
+  {
+    "station_id": 864,
+    "name": "신논현",
+    "line": "9",
+    "latitude": 37.504598,
+    "longitude": 127.02506
+  },
+  {
+    "station_id": 866,
+    "name": "언주",
+    "line": "9",
+    "latitude": 37.507287,
+    "longitude": 127.033868
+  },
+  {
+    "station_id": 868,
+    "name": "선정릉",
+    "line": "9",
+    "latitude": 37.510297,
+    "longitude": 127.043999
+  },
+  {
+    "station_id": 870,
+    "name": "삼성중앙",
+    "line": "9",
+    "latitude": 37.513011,
+    "longitude": 127.053282
+  },
+  {
+    "station_id": 872,
+    "name": "봉은사",
+    "line": "9",
+    "latitude": 37.514219,
+    "longitude": 127.060245
+  },
+  {
+    "station_id": 874,
+    "name": "종합운동장",
+    "line": "9",
+    "latitude": 37.511426,
+    "longitude": 127.076275
+  },
+  {
+    "station_id": 876,
+    "name": "삼전",
+    "line": "9",
+    "latitude": 37.504738,
+    "longitude": 127.088025
+  },
+  {
+    "station_id": 878,
+    "name": "석촌고분",
+    "line": "9",
+    "latitude": 37.502558,
+    "longitude": 127.097033
+  },
+  {
+    "station_id": 880,
+    "name": "석촌",
+    "line": "9",
+    "latitude": 37.505208,
+    "longitude": 127.10704
+  },
+  {
+    "station_id": 882,
+    "name": "송파나루",
+    "line": "9",
+    "latitude": 37.510372,
+    "longitude": 127.112216
+  },
+  {
+    "station_id": 884,
+    "name": "한성백제",
+    "line": "9",
+    "latitude": 37.516404,
+    "longitude": 127.116503
+  },
+  {
+    "station_id": 886,
+    "name": "올림픽공원",
+    "line": "9",
+    "latitude": 37.516269,
+    "longitude": 127.130288
+  },
+  {
+    "station_id": 888,
+    "name": "둔촌오륜",
+    "line": "9",
+    "latitude": 37.519683,
+    "longitude": 127.137989
+  },
+  {
+    "station_id": 890,
+    "name": "중앙보훈병원",
+    "line": "9",
+    "latitude": 37.529191,
+    "longitude": 127.148739
+  },
+  {
+    "station_id": 891,
+    "name": "계양",
+    "line": "1",
+    "latitude": 37.571449,
+    "longitude": 126.73578
+  },
+  {
+    "station_id": 892,
+    "name": "귤현",
+    "line": "1",
+    "latitude": 37.566379,
+    "longitude": 126.742654
+  },
+  {
+    "station_id": 894,
+    "name": "박촌",
+    "line": "1",
+    "latitude": 37.553703,
+    "longitude": 126.745077
+  },
+  {
+    "station_id": 896,
+    "name": "임학",
+    "line": "1",
+    "latitude": 37.545059,
+    "longitude": 126.738665
+  },
+  {
+    "station_id": 898,
+    "name": "계산",
+    "line": "1",
+    "latitude": 37.543238,
+    "longitude": 126.728128
+  },
+  {
+    "station_id": 900,
+    "name": "경인교대입구",
+    "line": "1",
+    "latitude": 37.538157,
+    "longitude": 126.722597
+  },
+  {
+    "station_id": 902,
+    "name": "작전",
+    "line": "1",
+    "latitude": 37.530415,
+    "longitude": 126.722527
+  },
+  {
+    "station_id": 904,
+    "name": "갈산",
+    "line": "1",
+    "latitude": 37.517268,
+    "longitude": 126.721514
+  },
+  {
+    "station_id": 906,
+    "name": "부평구청",
+    "line": "1",
+    "latitude": 37.508407,
+    "longitude": 126.720555
+  },
+  {
+    "station_id": 908,
+    "name": "부평시장",
+    "line": "1",
+    "latitude": 37.498383,
+    "longitude": 126.722244
+  },
+  {
+    "station_id": 912,
+    "name": "동수",
+    "line": "1",
+    "latitude": 37.485312,
+    "longitude": 126.718247
+  },
+  {
+    "station_id": 914,
+    "name": "부평삼거리",
+    "line": "1",
+    "latitude": 37.477679,
+    "longitude": 126.710208
+  },
+  {
+    "station_id": 916,
+    "name": "간석오거리",
+    "line": "1",
+    "latitude": 37.467048,
+    "longitude": 126.707938
+  },
+  {
+    "station_id": 918,
+    "name": "인천시청",
+    "line": "1",
+    "latitude": 37.457263,
+    "longitude": 126.702143
+  },
+  {
+    "station_id": 920,
+    "name": "예술회관",
+    "line": "1",
+    "latitude": 37.449396,
+    "longitude": 126.701012
+  },
+  {
+    "station_id": 922,
+    "name": "인천터미널",
+    "line": "1",
+    "latitude": 37.442383,
+    "longitude": 126.699706
+  },
+  {
+    "station_id": 924,
+    "name": "문학경기장",
+    "line": "1",
+    "latitude": 37.434935,
+    "longitude": 126.698579
+  },
+  {
+    "station_id": 926,
+    "name": "선학",
+    "line": "1",
+    "latitude": 37.426684,
+    "longitude": 126.698863
+  },
+  {
+    "station_id": 928,
+    "name": "신연수",
+    "line": "1",
+    "latitude": 37.41804,
+    "longitude": 126.693863
+  },
+  {
+    "station_id": 930,
+    "name": "원인재",
+    "line": "1",
+    "latitude": 37.412333,
+    "longitude": 126.687869
+  },
+  {
+    "station_id": 932,
+    "name": "동춘",
+    "line": "1",
+    "latitude": 37.404737,
+    "longitude": 126.681015
+  },
+  {
+    "station_id": 934,
+    "name": "동막",
+    "line": "1",
+    "latitude": 37.397878,
+    "longitude": 126.674005
+  },
+  {
+    "station_id": 936,
+    "name": "캠퍼스타운",
+    "line": "1",
+    "latitude": 37.387855,
+    "longitude": 126.661673
+  },
+  {
+    "station_id": 938,
+    "name": "테크노파크",
+    "line": "1",
+    "latitude": 37.382268,
+    "longitude": 126.656365
+  },
+  {
+    "station_id": 940,
+    "name": "지식정보단지",
+    "line": "1",
+    "latitude": 37.378384,
+    "longitude": 126.645168
+  },
+  {
+    "station_id": 942,
+    "name": "인천대입구",
+    "line": "1",
+    "latitude": 37.386007,
+    "longitude": 126.639484
+  },
+  {
+    "station_id": 944,
+    "name": "센트럴파크",
+    "line": "1",
+    "latitude": 37.393054,
+    "longitude": 126.634729
+  },
+  {
+    "station_id": 946,
+    "name": "국제업무지구",
+    "line": "1",
+    "latitude": 37.399907,
+    "longitude": 126.630347
+  },
+  {
+    "station_id": 948,
+    "name": "송도달빛축제공원",
+    "line": "1",
+    "latitude": 37.407143,
+    "longitude": 126.62597
+  },
+  {
+    "station_id": 949,
+    "name": "검단오류",
+    "line": "2",
+    "latitude": 37.594877,
+    "longitude": 126.627178
+  },
+  {
+    "station_id": 950,
+    "name": "왕길",
+    "line": "2",
+    "latitude": 37.59518,
+    "longitude": 126.642696
+  },
+  {
+    "station_id": 952,
+    "name": "검단사거리",
+    "line": "2",
+    "latitude": 37.60185,
+    "longitude": 126.657108
+  },
+  {
+    "station_id": 954,
+    "name": "마전",
+    "line": "2",
+    "latitude": 37.597566,
+    "longitude": 126.666998
+  },
+  {
+    "station_id": 956,
+    "name": "완정",
+    "line": "2",
+    "latitude": 37.592928,
+    "longitude": 126.673203
+  },
+  {
+    "station_id": 958,
+    "name": "독정",
+    "line": "2",
+    "latitude": 37.585212,
+    "longitude": 126.675844
+  },
+  {
+    "station_id": 960,
+    "name": "검암",
+    "line": "2",
+    "latitude": 37.56866,
+    "longitude": 126.675687
+  },
+  {
+    "station_id": 962,
+    "name": "검바위",
+    "line": "2",
+    "latitude": 37.561405,
+    "longitude": 126.677566
+  },
+  {
+    "station_id": 964,
+    "name": "아시아드경기장",
+    "line": "2",
+    "latitude": 37.5517,
+    "longitude": 126.677122
+  },
+  {
+    "station_id": 966,
+    "name": "서구청",
+    "line": "2",
+    "latitude": 37.543742,
+    "longitude": 126.676787
+  },
+  {
+    "station_id": 968,
+    "name": "가정",
+    "line": "2",
+    "latitude": 37.524649,
+    "longitude": 126.675539
+  },
+  {
+    "station_id": 970,
+    "name": "가정중앙시장",
+    "line": "2",
+    "latitude": 37.517054,
+    "longitude": 126.676672
+  },
+  {
+    "station_id": 972,
+    "name": "석남",
+    "line": "2",
+    "latitude": 37.506193,
+    "longitude": 126.676203
+  },
+  {
+    "station_id": 974,
+    "name": "서부여성회관",
+    "line": "2",
+    "latitude": 37.500168,
+    "longitude": 126.675795
+  },
+  {
+    "station_id": 976,
+    "name": "인천가좌",
+    "line": "2",
+    "latitude": 37.4897,
+    "longitude": 126.675208
+  },
+  {
+    "station_id": 978,
+    "name": "가재울",
+    "line": "2",
+    "latitude": 37.484192,
+    "longitude": 126.683673
+  },
+  {
+    "station_id": 980,
+    "name": "주안국가산단",
+    "line": "2",
+    "latitude": 37.473703,
+    "longitude": 126.68113
+  },
+  {
+    "station_id": 982,
+    "name": "주안",
+    "line": "2",
+    "latitude": 37.464992,
+    "longitude": 126.679098
+  },
+  {
+    "station_id": 984,
+    "name": "시민공원",
+    "line": "2",
+    "latitude": 37.458335,
+    "longitude": 126.681192
+  },
+  {
+    "station_id": 986,
+    "name": "석바위시장",
+    "line": "2",
+    "latitude": 37.457611,
+    "longitude": 126.692575
+  },
+  {
+    "station_id": 988,
+    "name": "인천시청",
+    "line": "2",
+    "latitude": 37.456833,
+    "longitude": 126.701306
+  },
+  {
+    "station_id": 990,
+    "name": "석천사거리",
+    "line": "2",
+    "latitude": 37.456805,
+    "longitude": 126.709986
+  },
+  {
+    "station_id": 992,
+    "name": "모래내시장",
+    "line": "2",
+    "latitude": 37.45583,
+    "longitude": 126.719298
+  },
+  {
+    "station_id": 994,
+    "name": "만수",
+    "line": "2",
+    "latitude": 37.454911,
+    "longitude": 126.732094
+  },
+  {
+    "station_id": 996,
+    "name": "남동구청",
+    "line": "2",
+    "latitude": 37.448161,
+    "longitude": 126.736939
+  },
+  {
+    "station_id": 998,
+    "name": "인천대공원",
+    "line": "2",
+    "latitude": 37.448769,
+    "longitude": 126.752618
+  },
+  {
+    "station_id": 1000,
+    "name": "운연",
+    "line": "2",
+    "latitude": 37.440127,
+    "longitude": 126.75997
+  },
+  {
+    "station_id": 1001,
+    "name": "판교",
+    "line": "경강선",
+    "latitude": 37.394761,
+    "longitude": 127.111217
+  },
+  {
+    "station_id": 1002,
+    "name": "성남",
+    "line": "경강선",
+    "latitude": 37.39468,
+    "longitude": 127.11945
+  },
+  {
+    "station_id": 1004,
+    "name": "이매",
+    "line": "경강선",
+    "latitude": 37.394655,
+    "longitude": 127.127819
+  },
+  {
+    "station_id": 1006,
+    "name": "삼동",
+    "line": "경강선",
+    "latitude": 37.409522,
+    "longitude": 127.20336
+  },
+  {
+    "station_id": 1008,
+    "name": "경기광주",
+    "line": "경강선",
+    "latitude": 37.399907,
+    "longitude": 127.25263
+  },
+  {
+    "station_id": 1010,
+    "name": "초월",
+    "line": "경강선",
+    "latitude": 37.374419,
+    "longitude": 127.299
+  },
+  {
+    "station_id": 1012,
+    "name": "곤지암",
+    "line": "경강선",
+    "latitude": 37.351315,
+    "longitude": 127.34674
+  },
+  {
+    "station_id": 1014,
+    "name": "신둔도예촌",
+    "line": "경강선",
+    "latitude": 37.317185,
+    "longitude": 127.40476
+  },
+  {
+    "station_id": 1016,
+    "name": "이천",
+    "line": "경강선",
+    "latitude": 37.265579,
+    "longitude": 127.44226
+  },
+  {
+    "station_id": 1018,
+    "name": "부발",
+    "line": "경강선",
+    "latitude": 37.260192,
+    "longitude": 127.490277
+  },
+  {
+    "station_id": 1020,
+    "name": "세종대왕릉",
+    "line": "경강선",
+    "latitude": 37.295309,
+    "longitude": 127.570938
+  },
+  {
+    "station_id": 1022,
+    "name": "여주",
+    "line": "경강선",
+    "latitude": 37.282308,
+    "longitude": 127.628816
+  },
+  {
+    "station_id": 1023,
+    "name": "임진강",
+    "line": "경의중앙선",
+    "latitude": 37.888421,
+    "longitude": 126.746765
+  },
+  {
+    "station_id": 1024,
+    "name": "운천",
+    "line": "경의중앙선",
+    "latitude": 37.879942,
+    "longitude": 126.769999
+  },
+  {
+    "station_id": 1026,
+    "name": "문산",
+    "line": "경의중앙선",
+    "latitude": 37.854619,
+    "longitude": 126.788047
+  },
+  {
+    "station_id": 1028,
+    "name": "파주",
+    "line": "경의중앙선",
+    "latitude": 37.815298,
+    "longitude": 126.792783
+  },
+  {
+    "station_id": 1030,
+    "name": "월롱",
+    "line": "경의중앙선",
+    "latitude": 37.796188,
+    "longitude": 126.792587
+  },
+  {
+    "station_id": 1032,
+    "name": "금촌",
+    "line": "경의중앙선",
+    "latitude": 37.766217,
+    "longitude": 126.774644
+  },
+  {
+    "station_id": 1034,
+    "name": "금릉",
+    "line": "경의중앙선",
+    "latitude": 37.751322,
+    "longitude": 126.765347
+  },
+  {
+    "station_id": 1036,
+    "name": "운정",
+    "line": "경의중앙선",
+    "latitude": 37.725826,
+    "longitude": 126.767257
+  },
+  {
+    "station_id": 1038,
+    "name": "야당",
+    "line": "경의중앙선",
+    "latitude": 37.712327,
+    "longitude": 126.761356
+  },
+  {
+    "station_id": 1040,
+    "name": "탄현",
+    "line": "경의중앙선",
+    "latitude": 37.694023,
+    "longitude": 126.761086
+  },
+  {
+    "station_id": 1042,
+    "name": "일산",
+    "line": "경의중앙선",
+    "latitude": 37.682077,
+    "longitude": 126.769846
+  },
+  {
+    "station_id": 1044,
+    "name": "풍산",
+    "line": "경의중앙선",
+    "latitude": 37.672346,
+    "longitude": 126.786243
+  },
+  {
+    "station_id": 1046,
+    "name": "백마",
+    "line": "경의중앙선",
+    "latitude": 37.658239,
+    "longitude": 126.794461
+  },
+  {
+    "station_id": 1048,
+    "name": "곡산",
+    "line": "경의중앙선",
+    "latitude": 37.645676,
+    "longitude": 126.801762
+  },
+  {
+    "station_id": 1050,
+    "name": "대곡",
+    "line": "경의중앙선",
+    "latitude": 37.63191,
+    "longitude": 126.81113
+  },
+  {
+    "station_id": 1052,
+    "name": "능곡",
+    "line": "경의중앙선",
+    "latitude": 37.618808,
+    "longitude": 126.820783
+  },
+  {
+    "station_id": 1054,
+    "name": "행신",
+    "line": "경의중앙선",
+    "latitude": 37.612102,
+    "longitude": 126.834146
+  },
+  {
+    "station_id": 1056,
+    "name": "강매",
+    "line": "경의중앙선",
+    "latitude": 37.612314,
+    "longitude": 126.843223
+  },
+  {
+    "station_id": 1058,
+    "name": "한국항공대",
+    "line": "경의중앙선",
+    "latitude": 37.602888,
+    "longitude": 126.868387
+  },
+  {
+    "station_id": 1060,
+    "name": "수색",
+    "line": "경의중앙선",
+    "latitude": 37.580842,
+    "longitude": 126.895611
+  },
+  {
+    "station_id": 1062,
+    "name": "디지털미디어시티",
+    "line": "경의중앙선",
+    "latitude": 37.577475,
+    "longitude": 126.900453
+  },
+  {
+    "station_id": 1064,
+    "name": "가좌",
+    "line": "경의중앙선",
+    "latitude": 37.568491,
+    "longitude": 126.915487
+  },
+  {
+    "station_id": 1066,
+    "name": "신촌",
+    "line": "경의중앙선",
+    "latitude": 37.559733,
+    "longitude": 126.942597
+  },
+  {
+    "station_id": 1068,
+    "name": "서울",
+    "line": "경의중앙선",
+    "latitude": 37.557231,
+    "longitude": 126.97103
+  },
+  {
+    "station_id": 1070,
+    "name": "홍대입구",
+    "line": "경의중앙선",
+    "latitude": 37.557641,
+    "longitude": 126.926683
+  },
+  {
+    "station_id": 1072,
+    "name": "서강대",
+    "line": "경의중앙선",
+    "latitude": 37.551881,
+    "longitude": 126.935711
+  },
+  {
+    "station_id": 1074,
+    "name": "공덕",
+    "line": "경의중앙선",
+    "latitude": 37.542596,
+    "longitude": 126.952099
+  },
+  {
+    "station_id": 1076,
+    "name": "효창공원앞",
+    "line": "경의중앙선",
+    "latitude": 37.538579,
+    "longitude": 126.96221
+  },
+  {
+    "station_id": 1078,
+    "name": "용산",
+    "line": "경의중앙선",
+    "latitude": 37.529849,
+    "longitude": 126.964561
+  },
+  {
+    "station_id": 1080,
+    "name": "이촌",
+    "line": "경의중앙선",
+    "latitude": 37.522427,
+    "longitude": 126.973406
+  },
+  {
+    "station_id": 1082,
+    "name": "서빙고",
+    "line": "경의중앙선",
+    "latitude": 37.519594,
+    "longitude": 126.988537
+  },
+  {
+    "station_id": 1084,
+    "name": "한남",
+    "line": "경의중앙선",
+    "latitude": 37.52943,
+    "longitude": 127.009169
+  },
+  {
+    "station_id": 1086,
+    "name": "옥수",
+    "line": "경의중앙선",
+    "latitude": 37.540446,
+    "longitude": 127.018672
+  },
+  {
+    "station_id": 1088,
+    "name": "응봉",
+    "line": "경의중앙선",
+    "latitude": 37.549946,
+    "longitude": 127.034538
+  },
+  {
+    "station_id": 1090,
+    "name": "왕십리",
+    "line": "경의중앙선",
+    "latitude": 37.561827,
+    "longitude": 127.038352
+  },
+  {
+    "station_id": 1092,
+    "name": "청량리",
+    "line": "경의중앙선",
+    "latitude": 37.580759,
+    "longitude": 127.0483
+  },
+  {
+    "station_id": 1094,
+    "name": "회기",
+    "line": "경의중앙선",
+    "latitude": 37.58946,
+    "longitude": 127.057583
+  },
+  {
+    "station_id": 1096,
+    "name": "중랑",
+    "line": "경의중앙선",
+    "latitude": 37.594917,
+    "longitude": 127.076116
+  },
+  {
+    "station_id": 1098,
+    "name": "상봉",
+    "line": "경의중앙선",
+    "latitude": 37.596678,
+    "longitude": 127.08504
+  },
+  {
+    "station_id": 1100,
+    "name": "망우",
+    "line": "경의중앙선",
+    "latitude": 37.59955,
+    "longitude": 127.091909
+  },
+  {
+    "station_id": 1102,
+    "name": "양원",
+    "line": "경의중앙선",
+    "latitude": 37.606596,
+    "longitude": 127.107906
+  },
+  {
+    "station_id": 1104,
+    "name": "구리",
+    "line": "경의중앙선",
+    "latitude": 37.603392,
+    "longitude": 127.143869
+  },
+  {
+    "station_id": 1106,
+    "name": "도농",
+    "line": "경의중앙선",
+    "latitude": 37.608806,
+    "longitude": 127.161153
+  },
+  {
+    "station_id": 1108,
+    "name": "양정",
+    "line": "경의중앙선",
+    "latitude": 37.60533,
+    "longitude": 127.19364
+  },
+  {
+    "station_id": 1110,
+    "name": "덕소",
+    "line": "경의중앙선",
+    "latitude": 37.586781,
+    "longitude": 127.208832
+  },
+  {
+    "station_id": 1112,
+    "name": "도심",
+    "line": "경의중앙선",
+    "latitude": 37.579622,
+    "longitude": 127.222672
+  },
+  {
+    "station_id": 1114,
+    "name": "팔당",
+    "line": "경의중앙선",
+    "latitude": 37.547371,
+    "longitude": 127.243939
+  },
+  {
+    "station_id": 1116,
+    "name": "운길산",
+    "line": "경의중앙선",
+    "latitude": 37.554669,
+    "longitude": 127.310115
+  },
+  {
+    "station_id": 1118,
+    "name": "양수",
+    "line": "경의중앙선",
+    "latitude": 37.545981,
+    "longitude": 127.329098
+  },
+  {
+    "station_id": 1120,
+    "name": "신원",
+    "line": "경의중앙선",
+    "latitude": 37.525545,
+    "longitude": 127.372921
+  },
+  {
+    "station_id": 1122,
+    "name": "국수",
+    "line": "경의중앙선",
+    "latitude": 37.516169,
+    "longitude": 127.399367
+  },
+  {
+    "station_id": 1124,
+    "name": "아신",
+    "line": "경의중앙선",
+    "latitude": 37.51382,
+    "longitude": 127.443173
+  },
+  {
+    "station_id": 1126,
+    "name": "오빈",
+    "line": "경의중앙선",
+    "latitude": 37.506062,
+    "longitude": 127.473868
+  },
+  {
+    "station_id": 1128,
+    "name": "양평",
+    "line": "경의중앙선",
+    "latitude": 37.492773,
+    "longitude": 127.491837
+  },
+  {
+    "station_id": 1130,
+    "name": "원덕",
+    "line": "경의중앙선",
+    "latitude": 37.468672,
+    "longitude": 127.547076
+  },
+  {
+    "station_id": 1132,
+    "name": "용문",
+    "line": "경의중앙선",
+    "latitude": 37.48223,
+    "longitude": 127.594647
+  },
+  {
+    "station_id": 1134,
+    "name": "지평",
+    "line": "경의중앙선",
+    "latitude": 37.476393,
+    "longitude": 127.629874
+  },
+  {
+    "station_id": 1135,
+    "name": "청량리",
+    "line": "경춘선",
+    "latitude": 37.580759,
+    "longitude": 127.0483
+  },
+  {
+    "station_id": 1136,
+    "name": "회기",
+    "line": "경춘선",
+    "latitude": 37.58946,
+    "longitude": 127.057583
+  },
+  {
+    "station_id": 1138,
+    "name": "중랑",
+    "line": "경춘선",
+    "latitude": 37.594917,
+    "longitude": 127.076116
+  },
+  {
+    "station_id": 1140,
+    "name": "상봉",
+    "line": "경춘선",
+    "latitude": 37.595577,
+    "longitude": 127.085716
+  },
+  {
+    "station_id": 1141,
+    "name": "광운대",
+    "line": "경춘선",
+    "latitude": 37.623632,
+    "longitude": 127.061835
+  },
+  {
+    "station_id": 1144,
+    "name": "망우",
+    "line": "경춘선",
+    "latitude": 37.59955,
+    "longitude": 127.091909
+  },
+  {
+    "station_id": 1146,
+    "name": "신내",
+    "line": "경춘선",
+    "latitude": 37.612887,
+    "longitude": 127.103218
+  },
+  {
+    "station_id": 1148,
+    "name": "갈매",
+    "line": "경춘선",
+    "latitude": 37.634118,
+    "longitude": 127.114757
+  },
+  {
+    "station_id": 1150,
+    "name": "별내",
+    "line": "경춘선",
+    "latitude": 37.64202,
+    "longitude": 127.12684
+  },
+  {
+    "station_id": 1152,
+    "name": "퇴계원",
+    "line": "경춘선",
+    "latitude": 37.648311,
+    "longitude": 127.143952
+  },
+  {
+    "station_id": 1154,
+    "name": "사릉",
+    "line": "경춘선",
+    "latitude": 37.65108,
+    "longitude": 127.176933
+  },
+  {
+    "station_id": 1156,
+    "name": "금곡",
+    "line": "경춘선",
+    "latitude": 37.637382,
+    "longitude": 127.207853
+  },
+  {
+    "station_id": 1158,
+    "name": "평내호평",
+    "line": "경춘선",
+    "latitude": 37.653225,
+    "longitude": 127.244493
+  },
+  {
+    "station_id": 1160,
+    "name": "천마산",
+    "line": "경춘선",
+    "latitude": 37.658978,
+    "longitude": 127.285379
+  },
+  {
+    "station_id": 1162,
+    "name": "마석",
+    "line": "경춘선",
+    "latitude": 37.652782,
+    "longitude": 127.311767
+  },
+  {
+    "station_id": 1164,
+    "name": "대성리",
+    "line": "경춘선",
+    "latitude": 37.684071,
+    "longitude": 127.379319
+  },
+  {
+    "station_id": 1166,
+    "name": "청평",
+    "line": "경춘선",
+    "latitude": 37.735488,
+    "longitude": 127.42661
+  },
+  {
+    "station_id": 1168,
+    "name": "상천",
+    "line": "경춘선",
+    "latitude": 37.770246,
+    "longitude": 127.454821
+  },
+  {
+    "station_id": 1170,
+    "name": "가평",
+    "line": "경춘선",
+    "latitude": 37.814536,
+    "longitude": 127.510739
+  },
+  {
+    "station_id": 1172,
+    "name": "굴봉산",
+    "line": "경춘선",
+    "latitude": 37.832067,
+    "longitude": 127.557695
+  },
+  {
+    "station_id": 1174,
+    "name": "백양리",
+    "line": "경춘선",
+    "latitude": 37.830779,
+    "longitude": 127.58933
+  },
+  {
+    "station_id": 1176,
+    "name": "강촌",
+    "line": "경춘선",
+    "latitude": 37.805723,
+    "longitude": 127.634146
+  },
+  {
+    "station_id": 1178,
+    "name": "김유정",
+    "line": "경춘선",
+    "latitude": 37.818466,
+    "longitude": 127.71434
+  },
+  {
+    "station_id": 1180,
+    "name": "남춘천",
+    "line": "경춘선",
+    "latitude": 37.864007,
+    "longitude": 127.723792
+  },
+  {
+    "station_id": 1182,
+    "name": "춘천",
+    "line": "경춘선",
+    "latitude": 37.885054,
+    "longitude": 127.717023
+  },
+  {
+    "station_id": 1183,
+    "name": "서울",
+    "line": "공항철도",
+    "latitude": 37.553247,
+    "longitude": 126.969769
+  },
+  {
+    "station_id": 1184,
+    "name": "공덕",
+    "line": "공항철도",
+    "latitude": 37.54253,
+    "longitude": 126.952024
+  },
+  {
+    "station_id": 1186,
+    "name": "홍대입구",
+    "line": "공항철도",
+    "latitude": 37.557438,
+    "longitude": 126.926715
+  },
+  {
+    "station_id": 1188,
+    "name": "디지털미디어시티",
+    "line": "공항철도",
+    "latitude": 37.576958,
+    "longitude": 126.898609
+  },
+  {
+    "station_id": 1190,
+    "name": "마곡나루",
+    "line": "공항철도",
+    "latitude": 37.565543,
+    "longitude": 126.827378
+  },
+  {
+    "station_id": 1192,
+    "name": "김포공항",
+    "line": "공항철도",
+    "latitude": 37.561842,
+    "longitude": 126.801904
+  },
+  {
+    "station_id": 1194,
+    "name": "계양",
+    "line": "공항철도",
+    "latitude": 37.571662,
+    "longitude": 126.7363
+  },
+  {
+    "station_id": 1196,
+    "name": "검암",
+    "line": "공항철도",
+    "latitude": 37.569098,
+    "longitude": 126.674007
+  },
+  {
+    "station_id": 1198,
+    "name": "청라국제도시",
+    "line": "공항철도",
+    "latitude": 37.556409,
+    "longitude": 126.624648
+  },
+  {
+    "station_id": 1200,
+    "name": "영종",
+    "line": "공항철도",
+    "latitude": 37.51202,
+    "longitude": 126.524254
+  },
+  {
+    "station_id": 1202,
+    "name": "운서",
+    "line": "공항철도",
+    "latitude": 37.492904,
+    "longitude": 126.49379
+  },
+  {
+    "station_id": 1204,
+    "name": "공항화물청사",
+    "line": "공항철도",
+    "latitude": 37.459041,
+    "longitude": 126.477516
+  },
+  {
+    "station_id": 1206,
+    "name": "인천공항1터미널",
+    "line": "공항철도",
+    "latitude": 37.447464,
+    "longitude": 126.452508
+  },
+  {
+    "station_id": 1208,
+    "name": "인천공항2터미널",
+    "line": "공항철도",
+    "latitude": 37.460699,
+    "longitude": 126.441442
+  },
+  {
+    "station_id": 1209,
+    "name": "대곡",
+    "line": "서해선",
+    "latitude": 37.63191,
+    "longitude": 126.81113
+  },
+  {
+    "station_id": 1210,
+    "name": "능곡",
+    "line": "서해선",
+    "latitude": 37.618808,
+    "longitude": 126.820783
+  },
+  {
+    "station_id": 1212,
+    "name": "김포공항",
+    "line": "서해선",
+    "latitude": 37.5617,
+    "longitude": 126.8041
+  },
+  {
+    "station_id": 1214,
+    "name": "원종",
+    "line": "서해선",
+    "latitude": 37.5239,
+    "longitude": 126.8049
+  },
+  {
+    "station_id": 1216,
+    "name": "부천종합운동장",
+    "line": "서해선",
+    "latitude": 37.505457,
+    "longitude": 126.797289
+  },
+  {
+    "station_id": 1218,
+    "name": "소사",
+    "line": "서해선",
+    "latitude": 37.483279,
+    "longitude": 126.795023
+  },
+  {
+    "station_id": 1220,
+    "name": "소새울",
+    "line": "서해선",
+    "latitude": 37.468467,
+    "longitude": 126.797252
+  },
+  {
+    "station_id": 1222,
+    "name": "시흥대야",
+    "line": "서해선",
+    "latitude": 37.450145,
+    "longitude": 126.793041
+  },
+  {
+    "station_id": 1224,
+    "name": "신천",
+    "line": "서해선",
+    "latitude": 37.439066,
+    "longitude": 126.786788
+  },
+  {
+    "station_id": 1226,
+    "name": "신현",
+    "line": "서해선",
+    "latitude": 37.409008,
+    "longitude": 126.788017
+  },
+  {
+    "station_id": 1228,
+    "name": "시흥시청",
+    "line": "서해선",
+    "latitude": 37.382223,
+    "longitude": 126.805625
+  },
+  {
+    "station_id": 1230,
+    "name": "시흥능곡",
+    "line": "서해선",
+    "latitude": 37.369864,
+    "longitude": 126.808573
+  },
+  {
+    "station_id": 1232,
+    "name": "달미",
+    "line": "서해선",
+    "latitude": 37.348847,
+    "longitude": 126.809409
+  },
+  {
+    "station_id": 1234,
+    "name": "선부",
+    "line": "서해선",
+    "latitude": 37.334353,
+    "longitude": 126.809904
+  },
+  {
+    "station_id": 1236,
+    "name": "초지",
+    "line": "서해선",
+    "latitude": 37.319619,
+    "longitude": 126.808147
+  },
+  {
+    "station_id": 1238,
+    "name": "시우",
+    "line": "서해선",
+    "latitude": 37.31321,
+    "longitude": 126.796261
+  },
+  {
+    "station_id": 1240,
+    "name": "원시",
+    "line": "서해선",
+    "latitude": 37.302371,
+    "longitude": 126.786691
+  },
+  {
+    "station_id": 1241,
+    "name": "일산",
+    "line": "서해선",
+    "latitude": 37.682077,
+    "longitude": 126.769846
+  },
+  {
+    "station_id": 1242,
+    "name": "풍산",
+    "line": "서해선",
+    "latitude": 37.672346,
+    "longitude": 126.786243
+  },
+  {
+    "station_id": 1244,
+    "name": "백마",
+    "line": "서해선",
+    "latitude": 37.658239,
+    "longitude": 126.794461
+  },
+  {
+    "station_id": 1246,
+    "name": "곡산",
+    "line": "서해선",
+    "latitude": 37.645676,
+    "longitude": 126.801762
+  },
+  {
+    "station_id": 1249,
+    "name": "청량리",
+    "line": "수인분당선",
+    "latitude": 37.580759,
+    "longitude": 127.0483
+  },
+  {
+    "station_id": 1250,
+    "name": "왕십리",
+    "line": "수인분당선",
+    "latitude": 37.56184,
+    "longitude": 127.037059
+  },
+  {
+    "station_id": 1252,
+    "name": "서울숲",
+    "line": "수인분당선",
+    "latitude": 37.543617,
+    "longitude": 127.044707
+  },
+  {
+    "station_id": 1254,
+    "name": "압구정로데오",
+    "line": "수인분당선",
+    "latitude": 37.527381,
+    "longitude": 127.040534
+  },
+  {
+    "station_id": 1256,
+    "name": "강남구청",
+    "line": "수인분당선",
+    "latitude": 37.517469,
+    "longitude": 127.041151
+  },
+  {
+    "station_id": 1258,
+    "name": "선정릉",
+    "line": "수인분당선",
+    "latitude": 37.510735,
+    "longitude": 127.043677
+  },
+  {
+    "station_id": 1260,
+    "name": "선릉",
+    "line": "수인분당선",
+    "latitude": 37.504856,
+    "longitude": 127.048807
+  },
+  {
+    "station_id": 1262,
+    "name": "한티",
+    "line": "수인분당선",
+    "latitude": 37.496237,
+    "longitude": 127.052873
+  },
+  {
+    "station_id": 1264,
+    "name": "도곡",
+    "line": "수인분당선",
+    "latitude": 37.491224,
+    "longitude": 127.055186
+  },
+  {
+    "station_id": 1266,
+    "name": "구룡",
+    "line": "수인분당선",
+    "latitude": 37.486839,
+    "longitude": 127.058856
+  },
+  {
+    "station_id": 1268,
+    "name": "개포동",
+    "line": "수인분당선",
+    "latitude": 37.489116,
+    "longitude": 127.06614
+  },
+  {
+    "station_id": 1270,
+    "name": "대모산입구",
+    "line": "수인분당선",
+    "latitude": 37.491373,
+    "longitude": 127.07272
+  },
+  {
+    "station_id": 1272,
+    "name": "수서",
+    "line": "수인분당선",
+    "latitude": 37.487472,
+    "longitude": 127.101422
+  },
+  {
+    "station_id": 1274,
+    "name": "복정",
+    "line": "수인분당선",
+    "latitude": 37.470345,
+    "longitude": 127.126658
+  },
+  {
+    "station_id": 1276,
+    "name": "가천대",
+    "line": "수인분당선",
+    "latitude": 37.448605,
+    "longitude": 127.126697
+  },
+  {
+    "station_id": 1278,
+    "name": "태평",
+    "line": "수인분당선",
+    "latitude": 37.440019,
+    "longitude": 127.127709
+  },
+  {
+    "station_id": 1280,
+    "name": "모란",
+    "line": "수인분당선",
+    "latitude": 37.432052,
+    "longitude": 127.129104
+  },
+  {
+    "station_id": 1282,
+    "name": "야탑",
+    "line": "수인분당선",
+    "latitude": 37.411185,
+    "longitude": 127.128715
+  },
+  {
+    "station_id": 1284,
+    "name": "이매",
+    "line": "수인분당선",
+    "latitude": 37.395371,
+    "longitude": 127.128248
+  },
+  {
+    "station_id": 1286,
+    "name": "서현",
+    "line": "수인분당선",
+    "latitude": 37.385126,
+    "longitude": 127.123592
+  },
+  {
+    "station_id": 1288,
+    "name": "수내",
+    "line": "수인분당선",
+    "latitude": 37.378455,
+    "longitude": 127.114322
+  },
+  {
+    "station_id": 1290,
+    "name": "정자",
+    "line": "수인분당선",
+    "latitude": 37.365994,
+    "longitude": 127.10807
+  },
+  {
+    "station_id": 1292,
+    "name": "미금",
+    "line": "수인분당선",
+    "latitude": 37.350077,
+    "longitude": 127.10891
+  },
+  {
+    "station_id": 1294,
+    "name": "오리",
+    "line": "수인분당선",
+    "latitude": 37.339824,
+    "longitude": 127.108942
+  },
+  {
+    "station_id": 1296,
+    "name": "죽전",
+    "line": "수인분당선",
+    "latitude": 37.324753,
+    "longitude": 127.107395
+  },
+  {
+    "station_id": 1298,
+    "name": "보정",
+    "line": "수인분당선",
+    "latitude": 37.312752,
+    "longitude": 127.108196
+  },
+  {
+    "station_id": 1300,
+    "name": "구성",
+    "line": "수인분당선",
+    "latitude": 37.298969,
+    "longitude": 127.105664
+  },
+  {
+    "station_id": 1302,
+    "name": "신갈",
+    "line": "수인분당선",
+    "latitude": 37.286102,
+    "longitude": 127.111313
+  },
+  {
+    "station_id": 1304,
+    "name": "기흥",
+    "line": "수인분당선",
+    "latitude": 37.275061,
+    "longitude": 127.11591
+  },
+  {
+    "station_id": 1306,
+    "name": "상갈",
+    "line": "수인분당선",
+    "latitude": 37.26181,
+    "longitude": 127.108847
+  },
+  {
+    "station_id": 1308,
+    "name": "청명",
+    "line": "수인분당선",
+    "latitude": 37.259489,
+    "longitude": 127.078934
+  },
+  {
+    "station_id": 1310,
+    "name": "영통",
+    "line": "수인분당선",
+    "latitude": 37.251568,
+    "longitude": 127.071394
+  },
+  {
+    "station_id": 1312,
+    "name": "망포",
+    "line": "수인분당선",
+    "latitude": 37.245795,
+    "longitude": 127.057353
+  },
+  {
+    "station_id": 1314,
+    "name": "매탄권선",
+    "line": "수인분당선",
+    "latitude": 37.252759,
+    "longitude": 127.040566
+  },
+  {
+    "station_id": 1316,
+    "name": "수원시청",
+    "line": "수인분당선",
+    "latitude": 37.261911,
+    "longitude": 127.030736
+  },
+  {
+    "station_id": 1318,
+    "name": "매교",
+    "line": "수인분당선",
+    "latitude": 37.265481,
+    "longitude": 127.015678
+  },
+  {
+    "station_id": 1320,
+    "name": "수원",
+    "line": "수인분당선",
+    "latitude": 37.265917,
+    "longitude": 126.999422
+  },
+  {
+    "station_id": 1322,
+    "name": "고색",
+    "line": "수인분당선",
+    "latitude": 37.24963,
+    "longitude": 126.980248
+  },
+  {
+    "station_id": 1324,
+    "name": "오목천",
+    "line": "수인분당선",
+    "latitude": 37.24304,
+    "longitude": 126.963676
+  },
+  {
+    "station_id": 1326,
+    "name": "어천",
+    "line": "수인분당선",
+    "latitude": 37.250102,
+    "longitude": 126.90879
+  },
+  {
+    "station_id": 1328,
+    "name": "야목",
+    "line": "수인분당선",
+    "latitude": 37.264179,
+    "longitude": 126.879483
+  },
+  {
+    "station_id": 1330,
+    "name": "사리",
+    "line": "수인분당선",
+    "latitude": 37.28998,
+    "longitude": 126.85685
+  },
+  {
+    "station_id": 1332,
+    "name": "한대앞",
+    "line": "수인분당선",
+    "latitude": 37.309689,
+    "longitude": 126.85344
+  },
+  {
+    "station_id": 1334,
+    "name": "중앙",
+    "line": "수인분당선",
+    "latitude": 37.315941,
+    "longitude": 126.838573
+  },
+  {
+    "station_id": 1336,
+    "name": "고잔",
+    "line": "수인분당선",
+    "latitude": 37.316784,
+    "longitude": 126.823144
+  },
+  {
+    "station_id": 1338,
+    "name": "초지",
+    "line": "수인분당선",
+    "latitude": 37.319619,
+    "longitude": 126.808147
+  },
+  {
+    "station_id": 1340,
+    "name": "안산",
+    "line": "수인분당선",
+    "latitude": 37.327082,
+    "longitude": 126.788532
+  },
+  {
+    "station_id": 1342,
+    "name": "신길온천",
+    "line": "수인분당선",
+    "latitude": 37.338212,
+    "longitude": 126.765844
+  },
+  {
+    "station_id": 1344,
+    "name": "정왕",
+    "line": "수인분당선",
+    "latitude": 37.351735,
+    "longitude": 126.742989
+  },
+  {
+    "station_id": 1346,
+    "name": "오이도",
+    "line": "수인분당선",
+    "latitude": 37.362357,
+    "longitude": 126.738714
+  },
+  {
+    "station_id": 1348,
+    "name": "달월",
+    "line": "수인분당선",
+    "latitude": 37.379681,
+    "longitude": 126.745177
+  },
+  {
+    "station_id": 1350,
+    "name": "월곶",
+    "line": "수인분당선",
+    "latitude": 37.391769,
+    "longitude": 126.742699
+  },
+  {
+    "station_id": 1352,
+    "name": "소래포구",
+    "line": "수인분당선",
+    "latitude": 37.40095,
+    "longitude": 126.733522
+  },
+  {
+    "station_id": 1354,
+    "name": "인천논현",
+    "line": "수인분당선",
+    "latitude": 37.400614,
+    "longitude": 126.722478
+  },
+  {
+    "station_id": 1356,
+    "name": "호구포",
+    "line": "수인분당선",
+    "latitude": 37.401637,
+    "longitude": 126.708627
+  },
+  {
+    "station_id": 1358,
+    "name": "남동인더스파크",
+    "line": "수인분당선",
+    "latitude": 37.407722,
+    "longitude": 126.695216
+  },
+  {
+    "station_id": 1360,
+    "name": "원인재",
+    "line": "수인분당선",
+    "latitude": 37.413049,
+    "longitude": 126.686648
+  },
+  {
+    "station_id": 1362,
+    "name": "연수",
+    "line": "수인분당선",
+    "latitude": 37.417804,
+    "longitude": 126.67894
+  },
+  {
+    "station_id": 1364,
+    "name": "송도",
+    "line": "수인분당선",
+    "latitude": 37.428514,
+    "longitude": 126.657772
+  },
+  {
+    "station_id": 1366,
+    "name": "인하대",
+    "line": "수인분당선",
+    "latitude": 37.448493,
+    "longitude": 126.649619
+  },
+  {
+    "station_id": 1368,
+    "name": "숭의",
+    "line": "수인분당선",
+    "latitude": 37.460789,
+    "longitude": 126.638297
+  },
+  {
+    "station_id": 1370,
+    "name": "신포",
+    "line": "수인분당선",
+    "latitude": 37.46874,
+    "longitude": 126.623853
+  },
+  {
+    "station_id": 1372,
+    "name": "인천",
+    "line": "수인분당선",
+    "latitude": 37.476403,
+    "longitude": 126.617326
+  },
+  {
+    "station_id": 1373,
+    "name": "신사",
+    "line": "신분당선",
+    "latitude": 37.516334,
+    "longitude": 127.020114
+  },
+  {
+    "station_id": 1374,
+    "name": "논현",
+    "line": "신분당선",
+    "latitude": 37.511093,
+    "longitude": 127.021415
+  },
+  {
+    "station_id": 1376,
+    "name": "신논현",
+    "line": "신분당선",
+    "latitude": 37.504598,
+    "longitude": 127.02506
+  },
+  {
+    "station_id": 1378,
+    "name": "강남",
+    "line": "신분당선",
+    "latitude": 37.496837,
+    "longitude": 127.028104
+  },
+  {
+    "station_id": 1380,
+    "name": "양재",
+    "line": "신분당선",
+    "latitude": 37.483809,
+    "longitude": 127.034653
+  },
+  {
+    "station_id": 1382,
+    "name": "양재시민의숲",
+    "line": "신분당선",
+    "latitude": 37.470023,
+    "longitude": 127.03842
+  },
+  {
+    "station_id": 1384,
+    "name": "청계산입구",
+    "line": "신분당선",
+    "latitude": 37.447211,
+    "longitude": 127.055664
+  },
+  {
+    "station_id": 1386,
+    "name": "판교",
+    "line": "신분당선",
+    "latitude": 37.394761,
+    "longitude": 127.112217
+  },
+  {
+    "station_id": 1388,
+    "name": "정자",
+    "line": "신분당선",
+    "latitude": 37.367098,
+    "longitude": 127.108403
+  },
+  {
+    "station_id": 1390,
+    "name": "미금",
+    "line": "신분당선",
+    "latitude": 37.349982,
+    "longitude": 127.108918
+  },
+  {
+    "station_id": 1392,
+    "name": "동천",
+    "line": "신분당선",
+    "latitude": 37.337928,
+    "longitude": 127.102976
+  },
+  {
+    "station_id": 1394,
+    "name": "수지구청",
+    "line": "신분당선",
+    "latitude": 37.322702,
+    "longitude": 127.095026
+  },
+  {
+    "station_id": 1396,
+    "name": "성복",
+    "line": "신분당선",
+    "latitude": 37.313335,
+    "longitude": 127.0801
+  },
+  {
+    "station_id": 1398,
+    "name": "상현",
+    "line": "신분당선",
+    "latitude": 37.297664,
+    "longitude": 127.069342
+  },
+  {
+    "station_id": 1400,
+    "name": "광교중앙",
+    "line": "신분당선",
+    "latitude": 37.288617,
+    "longitude": 127.051478
+  },
+  {
+    "station_id": 1402,
+    "name": "광교",
+    "line": "신분당선",
+    "latitude": 37.30211,
+    "longitude": 127.044483
+  },
+  {
+    "station_id": 1403,
+    "name": "샛강",
+    "line": "신림선",
+    "latitude": 37.5170969,
+    "longitude": 126.929399
+  },
+  {
+    "station_id": 1404,
+    "name": "대방",
+    "line": "신림선",
+    "latitude": 37.5133059,
+    "longitude": 126.9257265
+  },
+  {
+    "station_id": 1406,
+    "name": "서울지방병무청",
+    "line": "신림선",
+    "latitude": 37.5060464,
+    "longitude": 126.9227083
+  },
+  {
+    "station_id": 1408,
+    "name": "보라매",
+    "line": "신림선",
+    "latitude": 37.5002739,
+    "longitude": 126.9204355
+  },
+  {
+    "station_id": 1410,
+    "name": "보라매공원",
+    "line": "신림선",
+    "latitude": 37.4955691,
+    "longitude": 126.9180827
+  },
+  {
+    "station_id": 1412,
+    "name": "보라매병원",
+    "line": "신림선",
+    "latitude": 37.4929598,
+    "longitude": 126.9234964
+  },
+  {
+    "station_id": 1414,
+    "name": "당곡",
+    "line": "신림선",
+    "latitude": 37.4902998,
+    "longitude": 126.9275133
+  },
+  {
+    "station_id": 1416,
+    "name": "신림",
+    "line": "신림선",
+    "latitude": 37.4849266,
+    "longitude": 126.9296159
+  },
+  {
+    "station_id": 1418,
+    "name": "서원",
+    "line": "신림선",
+    "latitude": 37.4782341,
+    "longitude": 126.9330365
+  },
+  {
+    "station_id": 1420,
+    "name": "서울대벤처타운",
+    "line": "신림선",
+    "latitude": 37.4720019,
+    "longitude": 126.9339351
+  },
+  {
+    "station_id": 1422,
+    "name": "관악산",
+    "line": "신림선",
+    "latitude": 37.4691018,
+    "longitude": 126.9450639
+  },
+  {
+    "station_id": 1423,
+    "name": "신설동",
+    "line": "우이신설선",
+    "latitude": 37.576095,
+    "longitude": 127.023242
+  },
+  {
+    "station_id": 1424,
+    "name": "보문",
+    "line": "우이신설선",
+    "latitude": 37.585286,
+    "longitude": 127.019381
+  },
+  {
+    "station_id": 1426,
+    "name": "성신여대입구",
+    "line": "우이신설선",
+    "latitude": 37.592467,
+    "longitude": 127.016516
+  },
+  {
+    "station_id": 1428,
+    "name": "정릉",
+    "line": "우이신설선",
+    "latitude": 37.603133,
+    "longitude": 127.013396
+  },
+  {
+    "station_id": 1430,
+    "name": "북한산보국문",
+    "line": "우이신설선",
+    "latitude": 37.612072,
+    "longitude": 127.008251
+  },
+  {
+    "station_id": 1432,
+    "name": "솔샘",
+    "line": "우이신설선",
+    "latitude": 37.620238,
+    "longitude": 127.013626
+  },
+  {
+    "station_id": 1434,
+    "name": "삼양사거리",
+    "line": "우이신설선",
+    "latitude": 37.621337,
+    "longitude": 127.020473
+  },
+  {
+    "station_id": 1436,
+    "name": "삼양",
+    "line": "우이신설선",
+    "latitude": 37.626914,
+    "longitude": 127.018106
+  },
+  {
+    "station_id": 1438,
+    "name": "화계",
+    "line": "우이신설선",
+    "latitude": 37.634133,
+    "longitude": 127.017511
+  },
+  {
+    "station_id": 1440,
+    "name": "가오리",
+    "line": "우이신설선",
+    "latitude": 37.641537,
+    "longitude": 127.016789
+  },
+  {
+    "station_id": 1442,
+    "name": "4·19민주묘지",
+    "line": "우이신설선",
+    "latitude": 37.649502,
+    "longitude": 127.013684
+  },
+  {
+    "station_id": 1444,
+    "name": "솔밭공원",
+    "line": "우이신설선",
+    "latitude": 37.65603,
+    "longitude": 127.013273
+  },
+  {
+    "station_id": 1446,
+    "name": "북한산우이",
+    "line": "우이신설선",
+    "latitude": 37.662909,
+    "longitude": 127.012706
+  },
+  {
+    "station_id": 1447,
+    "name": "김포공항",
+    "line": "김포골드라인",
+    "latitude": 37.56236,
+    "longitude": 126.801868
+  },
+  {
+    "station_id": 1448,
+    "name": "고촌",
+    "line": "김포골드라인",
+    "latitude": 37.601243,
+    "longitude": 126.770345
+  },
+  {
+    "station_id": 1450,
+    "name": "풍무",
+    "line": "김포골드라인",
+    "latitude": 37.612488,
+    "longitude": 126.732387
+  },
+  {
+    "station_id": 1452,
+    "name": "사우",
+    "line": "김포골드라인",
+    "latitude": 37.620249,
+    "longitude": 126.719731
+  },
+  {
+    "station_id": 1454,
+    "name": "걸포북변",
+    "line": "김포골드라인",
+    "latitude": 37.63165,
+    "longitude": 126.705975
+  },
+  {
+    "station_id": 1456,
+    "name": "운양",
+    "line": "김포골드라인",
+    "latitude": 37.653867,
+    "longitude": 126.68393
+  },
+  {
+    "station_id": 1458,
+    "name": "장기",
+    "line": "김포골드라인",
+    "latitude": 37.643986,
+    "longitude": 126.669017
+  },
+  {
+    "station_id": 1460,
+    "name": "마산",
+    "line": "김포골드라인",
+    "latitude": 37.640732,
+    "longitude": 126.644344
+  },
+  {
+    "station_id": 1462,
+    "name": "구래",
+    "line": "김포골드라인",
+    "latitude": 37.645384,
+    "longitude": 126.628633
+  },
+  {
+    "station_id": 1464,
+    "name": "양촌",
+    "line": "김포골드라인",
+    "latitude": 37.642379,
+    "longitude": 126.614309
+  },
+  {
+    "station_id": 1465,
+    "name": "기흥",
+    "line": "용인에버라인",
+    "latitude": 37.275449,
+    "longitude": 127.116665
+  },
+  {
+    "station_id": 1466,
+    "name": "강남대",
+    "line": "용인에버라인",
+    "latitude": 37.270161,
+    "longitude": 127.126033
+  },
+  {
+    "station_id": 1468,
+    "name": "지석",
+    "line": "용인에버라인",
+    "latitude": 37.269606,
+    "longitude": 127.136515
+  },
+  {
+    "station_id": 1470,
+    "name": "어정",
+    "line": "용인에버라인",
+    "latitude": 37.274917,
+    "longitude": 127.143714
+  },
+  {
+    "station_id": 1472,
+    "name": "동백",
+    "line": "용인에버라인",
+    "latitude": 37.269043,
+    "longitude": 127.152716
+  },
+  {
+    "station_id": 1474,
+    "name": "초당",
+    "line": "용인에버라인",
+    "latitude": 37.260752,
+    "longitude": 127.159443
+  },
+  {
+    "station_id": 1476,
+    "name": "삼가",
+    "line": "용인에버라인",
+    "latitude": 37.242115,
+    "longitude": 127.168075
+  },
+  {
+    "station_id": 1478,
+    "name": "시청·용인대",
+    "line": "용인에버라인",
+    "latitude": 37.239151,
+    "longitude": 127.178406
+  },
+  {
+    "station_id": 1480,
+    "name": "명지대",
+    "line": "용인에버라인",
+    "latitude": 37.237964,
+    "longitude": 127.190294
+  },
+  {
+    "station_id": 1482,
+    "name": "김량장",
+    "line": "용인에버라인",
+    "latitude": 37.237247,
+    "longitude": 127.198781
+  },
+  {
+    "station_id": 1484,
+    "name": "용인중앙시장",
+    "line": "용인에버라인",
+    "latitude": 37.237845,
+    "longitude": 127.209198
+  },
+  {
+    "station_id": 1486,
+    "name": "고진",
+    "line": "용인에버라인",
+    "latitude": 37.24484,
+    "longitude": 127.214251
+  },
+  {
+    "station_id": 1488,
+    "name": "보평",
+    "line": "용인에버라인",
+    "latitude": 37.258965,
+    "longitude": 127.218457
+  },
+  {
+    "station_id": 1490,
+    "name": "둔전",
+    "line": "용인에버라인",
+    "latitude": 37.267051,
+    "longitude": 127.21364
+  },
+  {
+    "station_id": 1492,
+    "name": "전대·에버랜드",
+    "line": "용인에버라인",
+    "latitude": 37.285342,
+    "longitude": 127.219561
+  },
+  {
+    "station_id": 1493,
+    "name": "발곡",
+    "line": "의정부경전철",
+    "latitude": 37.727048,
+    "longitude": 127.052803
+  },
+  {
+    "station_id": 1494,
+    "name": "회룡",
+    "line": "의정부경전철",
+    "latitude": 37.725006,
+    "longitude": 127.047073
+  },
+  {
+    "station_id": 1496,
+    "name": "범골",
+    "line": "의정부경전철",
+    "latitude": 37.728755,
+    "longitude": 127.04353
+  },
+  {
+    "station_id": 1498,
+    "name": "경전철의정부",
+    "line": "의정부경전철",
+    "latitude": 37.737202,
+    "longitude": 127.043257
+  },
+  {
+    "station_id": 1500,
+    "name": "의정부시청",
+    "line": "의정부경전철",
+    "latitude": 37.739256,
+    "longitude": 127.034781
+  },
+  {
+    "station_id": 1502,
+    "name": "흥선",
+    "line": "의정부경전철",
+    "latitude": 37.743302,
+    "longitude": 127.037023
+  },
+  {
+    "station_id": 1504,
+    "name": "의정부중앙",
+    "line": "의정부경전철",
+    "latitude": 37.743676,
+    "longitude": 127.049565
+  },
+  {
+    "station_id": 1506,
+    "name": "동오",
+    "line": "의정부경전철",
+    "latitude": 37.745271,
+    "longitude": 127.056947
+  },
+  {
+    "station_id": 1508,
+    "name": "새말",
+    "line": "의정부경전철",
+    "latitude": 37.748885,
+    "longitude": 127.06362
+  },
+  {
+    "station_id": 1510,
+    "name": "경기도청북부청사",
+    "line": "의정부경전철",
+    "latitude": 37.75059,
+    "longitude": 127.071495
+  },
+  {
+    "station_id": 1512,
+    "name": "효자",
+    "line": "의정부경전철",
+    "latitude": 37.754025,
+    "longitude": 127.076902
+  },
+  {
+    "station_id": 1514,
+    "name": "곤제",
+    "line": "의정부경전철",
+    "latitude": 37.750471,
+    "longitude": 127.083715
+  },
+  {
+    "station_id": 1516,
+    "name": "어룡",
+    "line": "의정부경전철",
+    "latitude": 37.742802,
+    "longitude": 127.085035
+  },
+  {
+    "station_id": 1518,
+    "name": "송산",
+    "line": "의정부경전철",
+    "latitude": 37.737279,
+    "longitude": 127.087159
+  },
+  {
+    "station_id": 1520,
+    "name": "탑석",
+    "line": "의정부경전철",
+    "latitude": 37.733579,
+    "longitude": 127.088704
+  },
+  {
+    "station_id": 1521,
+    "name": "수서",
+    "line": "GTXA",
+    "latitude": 37.48637,
+    "longitude": 127.10161
+  },
+  {
+    "station_id": 1522,
+    "name": "성남",
+    "line": "GTXA",
+    "latitude": 37.39467,
+    "longitude": 127.12058
+  },
+  {
+    "station_id": 1524,
+    "name": "구성",
+    "line": "GTXA",
+    "latitude": 37.29913,
+    "longitude": 127.10389
+  },
+  {
+    "station_id": 1526,
+    "name": "동탄",
+    "line": "GTXA",
+    "latitude": 37.20034,
+    "longitude": 127.09569
+  }
+]
