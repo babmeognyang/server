@@ -10,3 +10,7 @@ spring:
 naver:
   client-id: ${NAVER_CLIENT_ID}
   client-secret: ${NAVER_CLIENT_SECRET}
+
+openweather:
+  api-key: ${OPENWEATHER_API_KEY}
+
